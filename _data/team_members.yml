@@ -71,8 +71,10 @@
   photo: cfm.jpg
   info: PhD student, Research Associate
   email: gmail.com
-  number_educ: 1
-  education1: <a href="https://www.researchgate.net/profile/Carlos-Fonturbel">Link to ResearchGate</a> 
+  number_educ: 3
+  education1: <a href="https://orcid.org/0000-0002-2131-7483">Link to ORCID</a>
+  education2: <a href="https://scholar.google.com/citations?user=PAOcinQAAAAJ&hl=es&oi=ao">Link to Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Carlos-Fonturbel">Link to ResearchGate</a> 
 
 - name: Diego de las Heras Rebellón
   photo: dhr.png
