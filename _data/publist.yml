@@ -4,18 +4,18 @@
   description: 
   authors: Sánchez-Brizuela, G., Cisnal, A., De la Fuente-López, E., Fraile, JC., Pérez-Turiel, J.
   link: 
-    url: "https://link.springer.com/article/10.1007/s10055-023-00858-0" 
-    display: (2023) Lightweight real-time hand segmentation leveraging MediaPipe landmark detection
+    url: "https://doi.org/10.1007/s10055-023-00858-0" 
+    display: (2023) Virtual Reality
   highlight: 0
 
-- title: 
-  type: 
+- title: "M3Rob: Plataforma robotizada para la rehabilitación de muñeca. Aspectos de diseño y arquitectura de control."
+  type: congress
   image: 
   description: 
-  authors: 
+  authors: Cisnal, A., Alonso-Linaje, G., Granja, J., Veganzones , M., Pérez-Turiel, J., Fraile, J.C.
   link: 
-    url: 
-    display: 
+    url: "http://hdl.handle.net/2183/33118"
+    display: (2023) XLIV Jornadas de Automática, 29-34
   highlight: 0
 
 - title: "A Versatile Embedded Platform for Implementation of Biocooperative Control in Upper-Limb Neuromotor Rehabilitation Scenarios"
