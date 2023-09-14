@@ -1,21 +1,13 @@
-- name: Lidia Santos 
-  photo: ls.jpg 
-  info: PhD student 
+- name: Juan Granja Garijo
+  photo: jg.png
+  info: BSc student
   email: 
-  number_educ: 0 
-  education1:
+  number_educ: 0
+  education1: 
 
-- name: David sierra 
-  photo: ds.jpg 
-  info: PhD student, Research Associate 
-  email: 
-  number_educ: 0 
-  education1:
-
-- name: Guillermo Sánchez Brizuela 
-  photo: gsb.jpg 
-  info: Master Student, Research Assistant 
-  email: 
+- name: Ángel Padilla Gutiérrez 
+  photo: apg.png 
+  info: BSc student 
   number_educ: 0 
   education1:
 
@@ -26,8 +18,23 @@
   number_educ: 0 
   education1: 
 
-- name: Ángel Padilla Gutiérrez 
-  photo: apg.png 
-  info: BSc student 
+- name: Guillermo Sánchez Brizuela 
+  photo: gsb.jpg 
+  info: Master Student, Research Assistant 
+  email: 
+  number_educ: 0 
+  education1:
+  
+- name: David sierra 
+  photo: ds.jpg 
+  info: PhD student, Research Associate 
+  email: 
+  number_educ: 0 
+  education1:
+
+- name: Lidia Santos 
+  photo: ls.jpg 
+  info: PhD student 
+  email: 
   number_educ: 0 
   education1:
