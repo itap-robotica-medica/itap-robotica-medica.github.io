@@ -10,11 +10,19 @@
 # presentados 2023
 
 - title: "Guiado mediante visión artificial de un asistente robotizado en operaciones de cirugía laparoscópica."
-  url: # no está subido aún
+  url: https://uvadoc.uva.es/handle/10324/61375
   author: Diego Benavides Cobos.
   tutor: Eusebio de la Fuente López y Juan Carlos Fraile Marinero.
   year: 2023.
   studies: Grado en Ingeniería Biomédica.
+  state: 2
+  
+- title: "Desarrollo de un control háptico de admitancia aplicado a un robot de rehabilitación de muñeca."
+  url: # no aparece en uvadoc ni en google
+  author: Juan Granja Garijo.
+  tutor: Juan Carlos Fraile Marinero.
+  year: 2023.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
   state: 1
   
 - title: "Entorno de realidad aumentada para rehabilitación de miembro superior."
@@ -32,8 +40,24 @@
   year: 2023.
   studies: Grado en Ingeniería Biomédica.
   state: 1
+  
+- title: "Modelado y Simulación del centro de rotación remoto para robots de cirugía laparoscópica."
+  url: https://uvadoc.uva.es/handle/10324/61356
+  author: Leyre Fernéndez Rios.
+  tutor: Juan Carlos Fraile Marinero.
+  year: 2023.
+  studies: Grado en Ingeniería Biomédica.
+  state: 2
 
 # presentados 2022
+
+- title: "Desarrollo de un dispositivo robotizado para la rehabilitación neuromotora de mano y muñeca."
+  url: # no aparece
+  author: Gonzalo Alonso Alonso de Linaje.
+  tutor: Eusebio de la Fuente López.
+  year: 2022.
+  studies: Máster en Ingeniería Industrial.
+  state: 1
 
 - title: "Segmentación automática de imágenes de resonancia magnética cerebral mediante redes neuronales convolucionales."
   url: https://uvadoc.uva.es/handle/10324/53670
@@ -71,6 +95,14 @@
   url: # no aparece en uvadoc ni en google
   author: Pedro Delgado Vicario.
   tutor: Eusebio de la Fuente López y J.C. Fraile Marinero.
+  year: 2022
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
+
+- title: "Desarrollo de un dispositivo robotizado para la rehabilitación neuromotora de mano y muñeca."
+  url: # no aparece en uvadoc ni en google
+  author: Alejandro Sancho Gil.
+  tutor: Juan Carlos Fraile Marinero.
   year: 2022
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
   state: 1
