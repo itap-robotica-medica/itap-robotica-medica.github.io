@@ -182,12 +182,21 @@
   type: congress
   image: dummy.png
   description: ""
-  authors: de la Rica, A.C., Sierra, D., Turiel, J.P., Marinero, J.C.F.
+  authors: Cisnal, A., Sierra, D., Perez-Turiel, J., Fraile-Marinero, J.C
   link:
-    url: https://dialnet.unirioja.es/servlet/articulo?codigo=8094804
+    url: https://ruc.udc.es/dspace/handle/2183/28300
     display: "(2021) XLII Jornadas de Automática: libro de actas, 152-159, Castellón, 1 a 3 de septiembre"
   highlight: 0
-  
+
+- title: "Integración de Bio-realimentación visual de EMG en un exoesqueleto de rehabilitación de mano (RobHand) utilizando entornos de realidad virtual"
+  type: congress
+  image: dummy.png
+  description: ""
+  authors: Cisnal, A., Sierra, D., Turiel, J. P., Fraile, J. C., de la Fuente, E.
+  link:
+    url: https://burjcdigital.urjc.es/bitstream/handle/10115/17868/Actas_V2%20%281%29.pdf?sequence=3&isAllowed=y
+    display: (2021) XII Simposio CEA de Bioingeniería, 89–94
+
 - title: "Prediction of Cow Calving in Extensive Livestock Using a New Neck-Mounted Sensorized Wearable Device: A Pilot Study"
   type: journal
   image: dummy.png
@@ -198,15 +207,15 @@
     display: (2021) Sensors, 21(23), 8060
   highlight: 0
   
-- title: "Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand"
-  type: congress
-  image: dummy.png
-  description: ""
-  authors: Cisnal, A., Sierra, D., Perez-Turiel, J., Fraile-Marinero, J.C
-  link:
-    url: https://ruc.udc.es/dspace/handle/2183/28300
-    display: (2021) XLII Jornadas de Automática, pp. 152-159, Universidade da Coruña, Servizo de Publicacións
-  highlight: 0
+#- title: "Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand"
+#  type: congress
+#  image: dummy.png
+#  description: ""
+#  authors: Cisnal, A., Sierra, D., Perez-Turiel, J., Fraile-Marinero, J.C
+#  link:
+#    url: https://dialnet.unirioja.es/servlet/articulo?codigo=8094804
+#    display: (2021) XLII Jornadas de Automática, pp. 152-159, Universidade da Coruña, Servizo de Publicacións
+#  highlight: 0
   
 - title: "A Low Cost IoT Enabled Device for the Monitoring, Recording and Communication of Physiological Signals."
   type: congress
