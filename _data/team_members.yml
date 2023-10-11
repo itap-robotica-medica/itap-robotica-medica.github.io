@@ -20,7 +20,7 @@
 
 - name: Eusebio de la Fuente
   photo: efl.jpg
-  info: Associate professor, PhD Control Engineer
+  info: Associate professor, PhD Control Engineering
   email: gmail.com
   number_educ: 2
   education1: <a href="https://orcid.org/0000-0001-5837-3510">Link to ORCID</a>
@@ -29,7 +29,7 @@
 
 - name: José-Luis González-Sánchez
   photo: jlgs.jpg
-  info: Associate professor, PhD Control Engineer
+  info: Associate professor, PhD Control Engineering
   email: gmail.com
   number_educ: 1
   education1: <a href="https://orcid.org/0000-0001-5397-3701">Link to ORCID</a>
@@ -37,7 +37,7 @@
 
 - name: Ana Cisnal
   photo: acr.png
-  info: PhD student, Research Associate
+  info: PhD Control Engineering, Research Associate
   email: gmail.com
   number_educ: 3
   education1: <a href="https://orcid.org/0000-0002-1556-7179">Link to ORCID</a>
