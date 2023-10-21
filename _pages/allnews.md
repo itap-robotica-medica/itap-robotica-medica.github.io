@@ -24,11 +24,15 @@ permalink: /allnews.html
 
   <div style="padding-left:15px;padding-right:15px;">
   <div class="well" style="overflow: hidden;">
+    
   {% if proj.image != NULL %}
     <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ proj.image }}" class="img-responsive" width="50%" style="float: left" />
   {% endif %}
+  
   <p>{{ proj.date }}</p> 
+  
   <p><em>{{ proj.headline }}</em></p>
+  
   <p>{{ proj.link }}</p>
   {% if proj.link1 != NULL %}
     <p>{{ proj.link1 }}</p>
@@ -42,6 +46,7 @@ permalink: /allnews.html
       {% endif %}
     {% endif %}
   {% endif %}
+  
   </div>
   </div>
 
