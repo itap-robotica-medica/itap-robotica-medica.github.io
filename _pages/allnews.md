@@ -44,6 +44,7 @@ permalink: /allnews.html
   {% endif &}
   </div>
   </div>
+
 {% endfor %}
 
 <p> &nbsp; </p>
