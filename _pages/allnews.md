@@ -41,7 +41,7 @@ permalink: /allnews.html
         {% endif %}
       {% endif %}
     {% endif %}
-  {% endif &}
+  {% endif %}
   </div>
   </div>
 
