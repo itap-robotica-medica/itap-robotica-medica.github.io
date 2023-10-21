@@ -30,6 +30,18 @@ permalink: /allnews.html
 <p>{{ proj.date }}</p> 
 <p><em>{{ proj.headline }}</em></p>
 <p>{{ proj.link }}</p>
+{% if proj.link1 != NULL %}
+  <p>{{ proj.link1 }}</p>
+  {% if proj.link2 != NULL %}
+    <p>{{ proj.link2 }}</p>
+    {% if proj.link3 != NULL %}
+      <p>{{ proj.link3 }}</p>
+      {% if proj.link4 != NULL %}
+        <p>{{ proj.link4 }}</p>
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endif &}
 </div>
 </div>
 
