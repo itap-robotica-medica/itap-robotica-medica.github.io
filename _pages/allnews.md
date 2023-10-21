@@ -34,6 +34,7 @@ permalink: /allnews.html
   <p><em>{{ proj.headline }}</em></p>
   
   <p>{{ proj.link }}</p>
+<!--
   {% if proj.link1 != NULL %}
     <p>{{ proj.link1 }}</p>
     {% if proj.link2 != NULL %}
@@ -46,7 +47,7 @@ permalink: /allnews.html
       {% endif %}
     {% endif %}
   {% endif %}
-  
+-->
   </div>
   </div>
 
