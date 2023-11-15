@@ -296,6 +296,17 @@
     url: https://www.mdpi.com/2227-7080/6/1/8
     display: (2018) Technologies, 6(1), 8.
   highlight: 0
+
+- title: "Robot para rehabilitación de las funciones de la mano mediante terapias activas, en personas con discapacidad neuromotora"
+  type: congress
+  image: dummy.png
+  description: ""
+  authors: J.C. Fraile, J. Pérez-Turiel, J.A. López-Belloso, R. Alonso, A. Cisnal, V. Lobo, V. Moreno
+  link:
+    url: https://jnr2018.eii.uva.es/file_manager/getFile/46509.html
+    display: (2018) Spanish Robotics Conference, paper 26.
+  highlight: 0
+    
   
 - title: "Estado del Arte en Neurotecnologías para la Asistencia y la Rehabilitación en España: Tecnologías Fundamentales"
   type: journal
