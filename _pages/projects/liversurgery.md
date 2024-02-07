@@ -14,7 +14,7 @@ permalink: /projects/liversurgery
 <b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain).  
 <b>Participating entity:</b>  ITAP (Institute of Advanced Production Technologies), University of Valladolid.  
 <b>Duration:</b> 01-Septembery-2023 - 31-August-2026  
-Projecto coordinated with the <a href="http://www.roboticamedica.uma.es/">Robotics Group of the University of Málaga</a> and the Nbio group of "Miguel Hernández University" of Elche.
+Project coordinated with the <a href="http://www.roboticamedica.uma.es/">Robotics Group of the University of Málaga</a> and the Nbio group of "Miguel Hernández University" of Elche.
 
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/liversurgery.png" class="img-responsive" width="100%" />
