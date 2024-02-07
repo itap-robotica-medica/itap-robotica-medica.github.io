@@ -26,38 +26,14 @@ The robotic system will work in two different stages; one preoperative and one o
 ---
 
 <div class="col-md-12">
-<a href="https://www.ciencia.gob.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ciencia_innovacion.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
+<a href="https://www.aei.gob.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agenciaestatalinv.png"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
 </a>
 </div>
 
-<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
-<div class="col-md-4">
-<a href="">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ticcyl.png"  class=" img-responsive" />
-</a>
-</div>
-<div class="col-md-4">
-<a href="http://www.uva.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uva.png"  class=" img-responsive" />
-</a>
-</div>
-<div class="col-md-4">
-<a href="http://www.benitomenni.org/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/benitomenni.png"  class=" img-responsive" />
-</a>
-</div>
-</div>
 
-<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
-<div class="col-md-6">
-<a href="https://www.itap.uva.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/itap.jpg"  class=" img-responsive" />
+<div class="col-md-12">
+<a href="https://www.fondoseuropeos.hacienda.gob.es/sitios/dgfc/es-ES/Paginas/FEDER.aspx">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" />
 </a>
-</div>
-<div class="col-md-6">
-<a href="http://www.gib.tel.uva.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gib.png"  class=" img-responsive" />
-</a>
-</div>
 </div>
