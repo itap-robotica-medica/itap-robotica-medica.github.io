@@ -3,14 +3,14 @@
 #   description: <Descripcion>
 #   url: <page name>
 
- - title: "Shared-control strategies in Laparoscopic Liver surgery"
-   image: "liversurgery.png"
-   description: 
+- title: "Shared-control strategies in Laparoscopic Liver surgery"
+  image: "liversurgery.png"
+  description: 
     "
     The general objective of this project focuses on the development of technologies for providing a robotic assistant for laparoscopic liver surgery with skills for helping in the resolution of bleeding events that occur 
     during surgery, as well as the management of both an intraoperative ultrasound probe and the endoscope. All these functionalities will be integrated and validated under a cognitive scheme.
     "
-   url: "liversurgery"
+  url: "liversurgery"
 
 - title: "Development of new electroencephalography technology for Brain-Computer Interface Assistential Systems (ECOEEG)"
   image: "ECOEEG.png"
