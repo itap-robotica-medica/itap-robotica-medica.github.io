@@ -3,7 +3,7 @@ title: "ITAP Medical Robotics"
 layout: textlay
 excerpt: "ITAP Medical Robotics"
 sitemap: false
-permalink: /projects/neuromotor
+permalink: /projects/liversurgery
 ---
 
 <br>
