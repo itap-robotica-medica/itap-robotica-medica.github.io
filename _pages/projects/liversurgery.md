@@ -9,24 +9,19 @@ permalink: /projects/neuromotor
 <br>
 ### Platform for Neuromotor and Cognitive Rehabilitation Through Active Therapies in People who have Suffered a Cerebrovascular Accident M3Rob (Mind-Hand-Wrist-Robot)
 
-<b>Funding Entity:</b> Ministry of Science and Innovation of Spain.  
-<b>Reference:</b>  Research Project RTC2019-007350-1  
+<b>Funding Entity:</b> Ministry of Science, Innovation and Universities.  
+<b>Reference:</b>  Research project PID2022-138206OB-C33  
 <b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain).  
-<b>Participating entity:</b>  University of Valladolid: ITAP Research Institute y Biomedical Engineering Group. "Benito Menni" Hospital Center (Valladolid - Spain).  
-<b>Duration:</b> 01-September-2020 - 31-December-2023  
-<b>Official project webpage:</b> <a href="http://www.gib.tel.uva.es/m3rob/#">http://www.gib.tel.uva.es/m3rob/</a>  
+<b>Participating entity:</b>  ITAP (Institute of Advanced Production Technologies), University of Valladolid.  
+<b>Duration:</b> 01-Septembery-2023 - 31-August-2026  
+Projecto coordinated with the <a href="http://www.roboticamedica.uma.es/">Robotics Group of the University of Málaga</a> and the Nbio group of "Miguel Hernández University" of Elche.
 
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/liversurgery.png" class="img-responsive" width="100%" />
 
-In this innovative experimental development project, a neurorehabilitation platform will be developed (M3Rob - Mind - Hand - Robot Wrist), that will allow the realization of new therapies to address, simultaneously, the rehabilitation of cognitive and neuromotor functions, for patients who have suffered a stroke. With this platform, patients will be able to perform therapies oriented to activities of daily living for neuromotor rehabilitation, and it will also allow training / rehabilitating the higher cognitive functions affected by their injury. This approach to neuromotor and cognitive rehabilitation will improve the patient's rehabilitation and benefit from the combined effects of both therapeutic approaches.
+The general objective of this project focuses on the development of technologies for providing a robotic assistant for laparoscopic liver surgery with skills for helping in the resolution of bleeding events that occur during surgery, as well as the management of both an intraoperative ultrasound probe and the endoscope. All these functionalities will be integrated and validated under a cognitive scheme. 
 
-The M3Rob platform will use the measurement of electromyography (EMG) and electroencephalography (EEG) signals to detect the intentionality of the patient's hand-wrist movement. The EMG will be used to help in motor rehabilitation, while the EEG through BCI technology (Brain Computer Interface) will be used as a cognitive rehabilitation tool, aimed at achieving an improvement in the patient's cognitive impairments in the areas of: learning, orientation, memory, etc. The monitoring and processing of EMG and EEG will allow the generation of on-line commands, which will be used to control a modular mechatronic device consisting of a hand exoskeleton and a 3-degree-of-freedom wrist rehabilitation module (pronation / supination, flexion / extension and abduction / adduction), with which the patient can perform personalized assistance therapies for neuromotor and cognitive rehabilitation, through the use of multimedia augmented reality (AR) environments oriented towards activities of daily living (ADL). Haptic control strategies will be implemented in the mechatronic device to modulate the physical interaction between the patient and the device, while at the same time the on-line dynamic adaptation of the degree of assistance received by the patient during the therapy will be carried out, through the application of the paradigm "assist as needed".
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/inside/m3rob_schema.webp" class="img-responsive" width="100%" />
-
-Clinical trials will be carried out with patients in healthcare and clinical settings, given the importance of evaluating the efficacy and clinical relevance of the motor-cognitive neurorehabilitation platform that is developed, for which the collaboration of qualified healthcare professionals is essential. For this reason, this project includes the participation of the Benito Menni Hospital Center, where these clinical tests will be carried out.
-
-On the other hand, and in order to facilitate its entry into the market, the platform that is developed must be low-cost, easily transportable, modular and configurable, both from a functional and structural point of view, which will allow its use not only in rehabilitation centers (hospitals, clinics, care centers for the elderly, etc.) but also in the domestic sphere. The platform is complemented with a software environment for the local / remote management of therapies, patients, historical data collected on-line during the execution of therapies, etc.
+The robotic system will work in two different stages; one preoperative and one operative, which will be managed by the human-machine interaction unit. In the first stage, it provides the functionalities for configuring the surgical space and a navigation interface, which allows the surgeon to plan certain manoeuvres and define the interaction with the robotic arms. On the other hand, it includes a learning system that teaches the robots how to carry out both bleeding assistance manoeuvres and intraoperative ultrasound probe movements. In the operative stage, the robotic system can detect bleeding situations in the liver, locate the source and activate the robotic assistance (autonomous actions of the robots and others in collaboration with the assistant or surgeon) that will consider the origin and severity of the bleeding. This robotic assistant carries out the autonomous manoeuvre according to preoperative learning, which is complemented using extended reality to facilitate the surgeon's actions. Likewise, the human-robot interaction unit supervises the actions of the robots, so that, in case of failure, it can replan the manoeuvre or request for the assistant's help for moving an arm by directly assisted tele-operation.
 
 ---
 
