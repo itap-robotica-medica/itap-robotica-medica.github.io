@@ -27,14 +27,14 @@ The robotic system will work in two different stages; one preoperative and one o
 <div>
 <div class="col-md-8">
 <a href="https://www.aei.gob.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agenciaestatalinv.png"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:90%;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agenciaestatalinv.png"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:100%;"/>
 </a>
 </div>
 
 
 <div class="col-md-4">
 <a href="https://www.fondoseuropeos.hacienda.gob.es/sitios/dgfc/es-ES/Paginas/FEDER.aspx">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:90%;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:100%;"/>
 </a>
 </div>
 </div>
