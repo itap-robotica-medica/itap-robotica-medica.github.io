@@ -34,7 +34,7 @@ The robotic system will work in two different stages; one preoperative and one o
 
 <div class="col-md-6">
 <a href="https://www.fondoseuropeos.hacienda.gob.es/sitios/dgfc/es-ES/Paginas/FEDER.aspx">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
 </a>
 </div>
 </div>
