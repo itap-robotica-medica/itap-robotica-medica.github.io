@@ -1,13 +1,3 @@
-- title: "Design and Analysis of the M3Rob: A Robotic Platform for Wrist and Hand Rehabilitation"
-  type: journal
-  image: dummy.png
-  description: 
-  authors: Alonso-Linaje, G., Cisnal, A., Fraile, JC., Pérez-Turiel, J.
-  link:
-    url: "https://ieeexplore.ieee.org/iel7/6287639/6514899/10445186.pdf"
-    display: (2024) IEEE Access, vol. 12, 30472 - 30481
-  highlight: 0
-
 - title: "Tackling Post-COVID-19 Rehabilitation Challenges: A Pilot Clinical Trial Investigating the Role of Robotic-Assisted Hand Rehabilitation"
   type: journal
   image: dummy.png
@@ -16,6 +6,16 @@
   link:
     url: "https://www.mdpi.com/2077-0383/13/6/1543"
     display: (2024) Journal of Clinical Medicine, vol. 13, 1543
+  highlight: 0
+
+- title: "Design and Analysis of the M3Rob: A Robotic Platform for Wrist and Hand Rehabilitation"
+  type: journal
+  image: dummy.png
+  description: 
+  authors: Alonso-Linaje, G., Cisnal, A., Fraile, JC., Pérez-Turiel, J.
+  link:
+    url: "https://ieeexplore.ieee.org/iel7/6287639/6514899/10445186.pdf"
+    display: (2024) IEEE Access, vol. 12, 30472 - 30481
   highlight: 0
 
 - title: "Lightweight real-time hand segmentation leveraging MediaPipe landmark detection"
