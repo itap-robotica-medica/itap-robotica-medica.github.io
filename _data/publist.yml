@@ -15,7 +15,7 @@
   authors: Alonso-Linaje, G., Cisnal, A., Fraile, JC., Pérez-Turiel, J.
   link:
     url: "https://ieeexplore.ieee.org/iel7/6287639/6514899/10445186.pdf"
-    display: (2024) IEEE Access, vol. 12, 30472 - 30481
+    display: (2024) IEEE Access, vol. 12, 30472-30481
   highlight: 0
 
 - title: "Lightweight real-time hand segmentation leveraging MediaPipe landmark detection"
@@ -25,7 +25,7 @@
   authors: Sánchez-Brizuela, G., Cisnal, A., De la Fuente-López, E., Fraile, JC., Pérez-Turiel, J.
   link: 
     url: "https://doi.org/10.1007/s10055-023-00858-0" 
-    display: (2023) Virtual Reality
+    display: (2023) Virtual Reality, vol. 27, 3125–3132
   highlight: 0
 
 - title: "M3Rob: Plataforma robotizada para la rehabilitación de muñeca. Aspectos de diseño y arquitectura de control."
@@ -45,7 +45,7 @@
   authors: Cisnal, A., Antolínez, D., Turiel, J., Fraile, JC., De la Fuente, E.
   link:
     url: "https://ieeexplore.ieee.org/document/10097735"
-    display: (2023) IEEE Access, vol. 11, 35726 - 35736
+    display: (2023) IEEE Access, vol. 11, 35726-35736
   highlight: 0
   
 - title: "Interaction with a hand rehabilitation exoskeleton in emg-driven bilateral therapy: Influence of visual biofeedback on the users’ performance"
