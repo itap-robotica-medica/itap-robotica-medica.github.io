@@ -11,7 +11,7 @@ permalink: /projects/liversurgery
 
 <b>Funding Entity:</b> Ministry of Science, Innovation and Universities.  
 <b>Reference:</b>  Research project PID2022-138206OB-C33  
-<!--><b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain).  
+<!--<b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain). --> 
 <b>Participating entity:</b>  ITAP (Institute of Advanced Production Technologies), University of Valladolid.  
 <b>Duration:</b> 01-Septembery-2023 - 31-August-2026  
 Project coordinated with the <a href="http://www.roboticamedica.uma.es/">Robotics Group of the University of Málaga</a> and the Nbio group of "Miguel Hernández University" of Elche.
