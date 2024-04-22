@@ -4,7 +4,7 @@
 
 {% for article in site.data.news limit:5 %}
 {{ article.date }}
-<p></p><a href="{{ site.url }}{{ site.baseurl }}/allnews/#:~:text={{ article.date }}"> {{ article.headline }}</a></p>
+<p></p><a href="{{ site.url }}{{ site.baseurl }}/allnews#:~:text={{ article.date }}"> {{ article.headline }}</a></p>
 <!--<a href="{{ site.url }}{{ site.baseurl }}/allnews/#:~:text={{ article.date[0] }}%20{{ article.date[1] }}%20{{ article.date[2] }}">-->
 {% endfor %}
 
