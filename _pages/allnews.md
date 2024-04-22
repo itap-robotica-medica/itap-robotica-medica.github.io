@@ -34,7 +34,7 @@ permalink: /allnews.html
   <p><em>{{ proj.headline }}</em></p>
 
   {% if proj.spotify != NULL %}
-  {{ proj.spotify }}
+  <div>{{ proj.spotify }}<\div>
   {% endif %}
   
   {% if proj.link != NULL %}
