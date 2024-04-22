@@ -35,6 +35,7 @@ permalink: /allnews.html
 
   {% if proj.spotify != NULL %}
   {{ proj.spotify }}
+  {% endif %}
   
   {% if proj.link != NULL %}
   <p>{{ proj.link }}</p>
