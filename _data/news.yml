@@ -1,9 +1,7 @@
 - date: 16 April 2024
   headline: "Juan Carlos Fraile talks about Robhand rehabilitation therapies in national radio program 'Por tres razones'"
-  link: <\p>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4uenSepk9TMrkurtHVBCgn?utm_source=generator&t=215" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-        <p>
-
+  #link: <a href="https://open.spotify.com/embed/episode/4uenSepk9TMrkurtHVBCgn?utm_source=generator&t=215" target="_blank">Exoesqueleto de mano […] (Por tres razones, RNE)</a> 
+  spotify: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4uenSepk9TMrkurtHVBCgn?utm_source=generator&t=215" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - date: 7 April 2024
   headline: "Regional newspaper 'El Norte de Castilla' revisits RobHand technology for hand rehabilitation, inspired by our post-COVID therapies article"
