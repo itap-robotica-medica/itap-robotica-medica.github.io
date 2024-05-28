@@ -1,3 +1,13 @@
+- title: "Grasper-Needle Coordination in Robotic Laparoscopic Surgery: Potential Fields Approach"
+  type: congress
+  image: dummy.png
+  description:
+  authors: Fontúrbel, C., Fraile, JC., Pérez-Turiel, J.
+  link:
+    url: "https://link.springer.com/chapter/10.1007/978-3-031-59167-9_38"
+    display: (2023) VI Iberian Robotics Conference, 462-473
+  highlight: 0
+
 - title: "M3Display: Sistema de realidad aumentada para la rehabilitación de la función motora del miembro superior"
   type: congress
   image: dummy.png
