@@ -1,3 +1,23 @@
+- title: "Machine Learning-Based Prediction of Cattle Activity Using Sensor-Based Data"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Hernández, G., González-Sánchez, C., González-Arrieta, A., Sánchez-Brizuela, G., Fraile, J.C.,   
+  link:
+    url: "https://www.mdpi.com/1424-8220/24/10/3157"
+    display: (2024) Sensors 24 (10), 3157
+  highlight: 0
+
+- title: "Robust Feature Selection for BP Estimation in Multiple Populations: Towards Cuffless Ambulatory BP Monitoring"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Li, Y., Fuchs, B., Ejtehadi, M., Riener, R., Paez-Granados, D.
+  link:
+    url: "https://ieeexplore.ieee.org/document/10552318"
+    display: (2024) IEEE Journal of Biomedical and Health Informatics, 1-12
+  highlight: 0
+
 - title: "Grasper-Needle Coordination in Robotic Laparoscopic Surgery: Potential Fields Approach"
   type: congress
   image: dummy.png
