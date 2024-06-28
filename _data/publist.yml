@@ -1,3 +1,13 @@
+- title: "Real-Time Tool Localization for Laparoscopic Surgery Using Convolutional Neural Network"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Benavides, D., Cisnal, A., Fontúrbel, C., de la Fuente, E., Fraile, J.C.
+  link:
+    url: "doi.org/10.3390/s24134191"
+    display: (2024) Sensors 24 (13), 4191
+  highlight: 0
+
 - title: "Robust Feature Selection for BP Estimation in Multiple Populations: Towards Cuffless Ambulatory BP Monitoring"
   type: journal
   image: dummy.jpg
