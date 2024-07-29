@@ -13,13 +13,13 @@ permalink: /projects/
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
-    <div style="padding-left:15px;padding-right:15px;">
-        <div class="well" style="overflow: hidden;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
-            <pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
-            <p>{{ proj.description }}</p>
-        </div>
-    </div>
+<div style="padding-left:15px;padding-right:15px;">
+<div class="well" style="overflow: hidden;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
+<pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
+<p>{{ proj.description }}</p>
+</div>
+</div>
 {% endfor %}
 
 ## Robotic assisted surgery
@@ -27,13 +27,13 @@ permalink: /projects/
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
 {% if proj.category == "Surgery" %}
-    <div style="padding-left:15px;padding-right:15px;">
-        <div class="well" style="overflow: hidden;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
-            <pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
-            <p>{{ proj.description }}</p>
-        </div>
-    </div>
+<div style="padding-left:15px;padding-right:15px;">
+<div class="well" style="overflow: hidden;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
+<pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
+<p>{{ proj.description }}</p>
+</div>
+</div>
 {% endif %}
 {% endfor %}
 
@@ -42,13 +42,13 @@ permalink: /projects/
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
 {% if proj.category == "Sensors" %}
-    <div style="padding-left:15px;padding-right:15px;">
-        <div class="well" style="overflow: hidden;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
-            <pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
-            <p>{{ proj.description }}</p>
-        </div>
-    </div>
+<div style="padding-left:15px;padding-right:15px;">
+<div class="well" style="overflow: hidden;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
+<pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
+<p>{{ proj.description }}</p>
+</div>
+</div>
 {% endif %}
 {% endfor %}
 
