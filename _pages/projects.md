@@ -13,6 +13,7 @@ permalink: /projects/
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
+{% if proj.category == "Rehab" %}
 <div style="padding-left:15px;padding-right:15px;">
 <div class="well" style="overflow: hidden;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
@@ -20,6 +21,7 @@ permalink: /projects/
 <p>{{ proj.description }}</p>
 </div>
 </div>
+{% endif %}
 {% endfor %}
 
 ## Robotic assisted surgery
