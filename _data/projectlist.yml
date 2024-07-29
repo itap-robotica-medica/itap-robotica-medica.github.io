@@ -11,6 +11,7 @@
     during surgery, as well as the management of both an intraoperative ultrasound probe and the endoscope. All these functionalities will be integrated and validated under a cognitive scheme.
     "
   url: "liversurgery"
+  category: "Surgery"
 
 - title: "Development of new electroencephalography technology for Brain-Computer Interface Assistential Systems (ECOEEG)"
   image: "ECOEEG.png"
@@ -21,6 +22,7 @@
     enabling the creation of a portable and versatile device capable of capturing a sufficiently high-quality signal to control assistive BCIs, at a lower cost than the existing clinical EEG technology available in the market.
     "
   url: "ecoeeg"
+  category: "Sensors"
   
 - title: "Development and Clinical Trials of a Rehabilitation Platform to Accelerate the Recovery of Patients with Neuromotor Sequelae Caused by COVID"
   image: "covid.jpg"
@@ -31,6 +33,7 @@
     ROBHAND robot for this kind of patients.
     "
   url: "covid"
+  category: "Rehab"
 
 - title: "Development and Fabrication of a Laboratory Prototype of a Real Time Ground and Fluids Analysis Instrumental Device"
   image: "sinumlab.jpeg"
@@ -42,6 +45,7 @@
     facilitate portability from the laboratory to the field, reduce analysis costs and allow results to be known in real time, to be a benchmark in the field of chemical analysis using contact sensors in real time.
     "
   url: "sinumlab"
+  category: "Sensors"
 
 - title: "Surgical Multi-Robot Coordination - Robotic Anastomosis Competence Evaluation"
   image: "imgsinfondo.png"
@@ -53,6 +57,7 @@
     order to plan the actuations to assist to the surgeon. These actuations will be executed by a fault tolerance motion control able to coordinate the different arm movements.
     "
   url: "multirobot"
+  category: "Surgery"
   
 - title: "Platform for Neuromotor and Cognitive Rehabilitation through Active Therapies in People Who Have Suffered a Cerebrovascular Accident"
   image: "m3rob.jpg"
@@ -64,6 +69,7 @@
     rehabilitation will improve the patient’s rehabilitation and benefit from the combined effects of both therapeutic approaches.
     "
   url: "neuromotor"
+  category: "Rehab"
   
 - title: "Development of a New Model of Efficient Management of Extensive Meat Vaccine Flock, Based on the Individual control of Each Animal (CIVEX)"
   image: "civex.jpg"
@@ -74,6 +80,7 @@
     the fertility and prolificacy rates of the livestock, optimize the management and control of livestock, and improve economic efficiency of livestock farms through control and cost savings.
     "
   url: "civex"
+  category: "Sensors"
   
 - title: "Robot for Rehabilitation of the Functions of the Hand Through Active Therapies, in People with Neuromoto Disability (ROBHAND)"
   image: "robotrehab.png"
@@ -87,6 +94,7 @@
     are motivating and friendly.
     "
   url: "robhand"
+  category: "Rehab"
   
 #  - title: "Robotic Device for Terminal Grip (End-Effector) for Neuro-Rehabilitation of Higher Members, with Active Therapies, Self-Adapted to the Needs of Each Patient (E2REBOT)"
 #    image: "e2rebot.png"
@@ -110,6 +118,7 @@
     intra-operative information.
     "
   url: "endonasal"
+  category: "Surgery"
   
 - title: "Sensorized Hals Sensorized Environment for Laparoscopic Surgery Assisted by the Hand"
   image: "senshalssensenv.png"
@@ -121,6 +130,7 @@
     and the ability to emulate the concept of “transparent abdomen” by combining real image with augmented reality.
     "
   url: "hals"
+  category: "Sensors"
   
 
   
