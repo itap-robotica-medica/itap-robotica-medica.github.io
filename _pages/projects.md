@@ -9,7 +9,7 @@ permalink: /projects/
 
 # Projects
 
-## Rehabilitation Robotics
+## Rehabilitation robotics
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
