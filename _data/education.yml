@@ -7,6 +7,24 @@
 #  state: 0
       # state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
 
+# presentados 2024
+
+- title: "Desarrollo y validación del control háptico de un dispositivo de rehabilitación de dedo mediante señales EMG."
+  url: 
+  author: Diego Almendro Wieczorek.
+  tutor: Juan Carlos Fraile Marinero.
+  year: 2024.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
+
+- title: "Integración de dispositivo háptico en un entorno de rehabilitación de miembro superior."
+  url:
+  author: Miguel Fernández Jaramillo.
+  tutor: Javier Pérez Turiel y Ana Cisnal de la Rica.
+  year: 2024.
+  studies: Grado en Ingeniería Biomédica.
+  state: 1
+
 # presentados 2023
 
 - title: "Guiado mediante visión artificial de un asistente robotizado en operaciones de cirugía laparoscópica."
