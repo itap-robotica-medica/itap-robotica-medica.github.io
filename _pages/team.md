@@ -159,6 +159,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </div></a>
 </center>
 
+<br>
+
 <!--## Past members
 {% assign number_printed = 0 %}
 {% for member in site.data.past_members %}
