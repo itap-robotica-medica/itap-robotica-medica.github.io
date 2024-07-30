@@ -3,7 +3,7 @@ title: "ITAP Medical Robotics - Past members"
 layout: gridlay
 excerpt: "ITAP Medical Robotics - Past members"
 sitemap: false
-permalink: /pastmembers/
+permalink: /team/past/
 ---
 
 # Past members
