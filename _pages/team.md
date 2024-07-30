@@ -167,7 +167,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
--->    
+  
   <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -212,10 +212,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd != 0 %}
 </div>
-{% endif %} -->
+{% endif %}
 
 
-<!--
+
 ## Alumni
 
 {% assign number_printed = 0 %}
