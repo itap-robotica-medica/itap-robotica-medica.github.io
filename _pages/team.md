@@ -151,7 +151,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <center>
-[Past members](/team/past)
+  <a href="/team/past">
+  <div>
+
+  Past members        →
+
+  </div></a>
 </center>
 
 <!--## Past members
