@@ -194,7 +194,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %} -->
+  {% endif %}
 
   </ul>
 </div>
@@ -210,7 +210,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd != 0 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 <!--
