@@ -150,8 +150,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+<center>
 ## [Past members](/team/past)
-
+</center>
 
 <!--## Past members
 {% assign number_printed = 0 %}
