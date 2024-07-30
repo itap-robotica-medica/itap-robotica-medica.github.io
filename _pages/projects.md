@@ -9,7 +9,7 @@ permalink: /projects/
 
 # Projects
 
-## Rehabilitation robotics
+## **Rehabilitation robotics**
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
@@ -24,7 +24,7 @@ permalink: /projects/
 {% endif %}
 {% endfor %}
 
-## Robotic assisted surgery
+## **Robotic assisted surgery**
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
@@ -39,7 +39,7 @@ permalink: /projects/
 {% endif %}
 {% endfor %}
 
-## Sensors and instrumentation
+## **Sensors and instrumentation**
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
