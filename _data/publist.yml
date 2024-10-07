@@ -1,3 +1,13 @@
+ - title: "Dispositivo háptico para la rehabilitación de dedo. Estudio preliminar"
+  type: congress
+  image: dummy.png
+  description: ""
+  authors: Almendro, D., Cisnal, A., Pérez-Turiel, J. Fraile, J.C.
+  link:
+    url: https://doi.org/10.17979/ja-cea.2024.45.10823
+    display: (2024) XLIII Jornadas de Automática
+  highlight: 0
+  
 - title: "Real-Time Tool Localization for Laparoscopic Surgery Using Convolutional Neural Network"
   type: journal
   image: dummy.jpg
@@ -177,7 +187,7 @@
 #    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://assets.researchsquare.com/files/rs-1619602/v1/6723c9f7-0a4c-45ee-b142-a8feeb27f112.pdf?c=1654644562
 #    display: (2022) Research Square 
 #  highlight: 0
-  
+
 - title: "Detección por deep learning de puntos de riesgo en la trayectoria de un asistente robotizado en cirugías endonasales transesfenoidales"
   type: congress
   image: dummy.png
