@@ -11,7 +11,7 @@ permalink: /projects/neuromotor
 
 <b>Funding Entity:</b> Ministry of Science and Innovation of Spain.  
 <b>Reference:</b>  Research Project RTC2019-007350-1  
-<b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain).  
+<b>Responsible company:</b> Laureano Ayuso, CEO de Ticcyl Digital S.L. (Salamanca - Spain).  
 <b>Participating entity:</b>  University of Valladolid: ITAP Research Institute y Biomedical Engineering Group. "Benito Menni" Hospital Center (Valladolid - Spain).  
 <b>Duration:</b> 01-September-2020 - 31-December-2023  
 <b>Official project webpage:</b> <a href="http://www.gib.tel.uva.es/m3rob/#">http://www.gib.tel.uva.es/m3rob/</a>  
@@ -29,13 +29,18 @@ Clinical trials will be carried out with patients in healthcare and clinical set
 On the other hand, and in order to facilitate its entry into the market, the platform that is developed must be low-cost, easily transportable, modular and configurable, both from a functional and structural point of view, which will allow its use not only in rehabilitation centers (hospitals, clinics, care centers for the elderly, etc.) but also in the domestic sphere. The platform is complemented with a software environment for the local / remote management of therapies, patients, historical data collected on-line during the execution of therapies, etc.
 
 ---
-
-<div class="col-md-12">
+<row>
+<div class="col-md-8">
 <a href="https://www.ciencia.gob.es/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ciencia_innovacion.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
 </a>
 </div>
-
+<div class="col-md-4">
+<a href="https://www.aei.gob.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_aei.png"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
+</a>
+</div>
+</row>
 <div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
 <div class="col-md-4">
 <a href="">
