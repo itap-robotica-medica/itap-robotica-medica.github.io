@@ -1,11 +1,21 @@
+- title: "Modelo automático e integrable en tiempo real para la localización de herramientas de cirugía laparoscópica"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Benavides, D., Cisnal, A., de la Fuente, E., Turiel, J.P.
+  link:
+    url: https://dehesa.unex.es:8443/handle/10662/21260
+    display: (2024) Simposio de Robótica, Bioingeniería y visión por computador, 269-274
+  highlight: 0
+
 - title: "Training Fully Convolutional Neural Networks for Lightweight, Non-Critical Instance Segmentation Applications"
   type: journal
   image: dummy.jpg
   description:
-  authors: Veganzones, M., Cisnal, A., de la Fuente, E. Fraile, J.C.
+  authors: Veganzones, M., Cisnal, A., de la Fuente, E., Fraile, J.C.
   link:
     url: https://doi.org/10.3390/app142311357
-    display: (2024) XLIII Jornadas de Automática, 1-6
+    display: (2024) Applied ScienceS 14(23), 1-19
   highlight: 0
 
 - title: "Dispositivo háptico para la rehabilitación de dedo. Estudio preliminar"
