@@ -1,3 +1,13 @@
+- title: "Training Fully Convolutional Neural Networks for Lightweight, Non-Critical Instance Segmentation Applications"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Veganzones, M., Cisnal, A., de la Fuente, E. Fraile, J.C.
+  link:
+    url: https://doi.org/10.3390/app142311357
+    display: (2024) XLIII Jornadas de Automática, 1-6
+  highlight: 0
+
 - title: "Dispositivo háptico para la rehabilitación de dedo. Estudio preliminar"
   type: congress
   image: dummy.jpg
