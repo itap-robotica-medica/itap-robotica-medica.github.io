@@ -1,3 +1,13 @@
+- title: "Enhancing Hand Robotic Rehabilitation with Bilateral Therapy Using Leap Motion Controller"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Turiel, J.P., Fraile, J.C.
+  link:
+    url: https://doi.org/10.1007/978-3-031-77588-8_76
+    display: (2024) Proceedings of the 6th International Conference on Neurorehabilitation, 379-383
+  highlight: 0
+
 - title: "Modelo automático e integrable en tiempo real para la localización de herramientas de cirugía laparoscópica"
   type: congress
   image: dummy.jpg
