@@ -366,6 +366,16 @@
 #    url: https://link.springer.com/chapter/10.1007/978-3-030-36150-1_37
 #    display: "(2020) Robot 2019: Fourth Iberian Robotics Conference: Advances in Robotics, Volume 2, 453-464"
 #  highlight: 0
+
+- title: "RobHand, exoesqueleto de mano para rehabilitación de personas con discapacidad neuromotora."
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Moreno, V., Alonso, R., Lobo, V., Fraile, J.C., Turiel, J.P.
+  link:
+    url: https://thegardenofcuriosity.untref.edu.ar/img/18_c3d/PDF_C3D_Publicacio%CC%81n-IBERDISCAP_01.pdf
+    display: (2019) Iberdiscap. X Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, 158-159
+  highlight: 0
   
 - title: "Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes"
   type: journal
