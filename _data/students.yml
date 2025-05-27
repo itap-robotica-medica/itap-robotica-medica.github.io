@@ -42,21 +42,6 @@
   number_educ: 0
   education1: 
 
-
-- name: Serafín Eiras Martín
-  photo: sem.png
-  info: Superior technician student
-  email: 
-  number_educ: 0
-  education1: 
-
-- name: Eduardo de la Fuente Hernández
-  photo: edh.png
-  info: Superior technician student
-  email: 
-  number_educ: 0
-  education1: 
-
 - name: Pablo Gómez Sánchez
   photo: pbs.png
   info: BSc student
