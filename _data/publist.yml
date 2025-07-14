@@ -1,3 +1,23 @@
+- title: "Are Pat-Based Models Suitable for Continuous Blood Pressure Monitoring in Ambulatory Settings?"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Paez-Granados, D., Turiel, J.P., Fraile, J.C.
+  link:
+    url: https://doi.org/10.1109/CBMS65348.2025.00046
+    display: "IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS), pp. 1-6"
+  highlight: 0
+
+- title: "Impact of Immersive and Non-Immersive Displays on User Performance in a Haptic-Enabled Virtual Reality Platform"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Turiel, J.P., Fraile, J.C.
+  link:
+    url: https://doi.org/10.1109/CBMS65348.2025.00101
+    display: "IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS), pp. 480-483"
+  highlight: 0
+
 - title: "Development and Validation of an Affordable Wearable Multichannel EEG System with Active Electrodes and Innovative Flexible Headbands"
   type: journal
   image: dummy.jpg
