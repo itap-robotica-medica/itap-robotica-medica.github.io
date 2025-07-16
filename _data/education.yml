@@ -7,7 +7,18 @@
 #  state: 0
       # state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
 
+
+# presentados 2025
+
 # presentados 2024
+
+- title: "Desarrollo de un algoritmo para la detección y eliminación de elementos mecatrónicos, y rellenado de regiones en plataforma robótica de rehabilitación neuromotora de miembro superior."
+  url: 
+  author: Diego Benavides Cobos.
+  tutor: Javier Pérez Turiel y Ana Cisnal de la Rica.
+  year: 2024.
+  studies: Máster en Ingeniería Biomédica.
+  state: 1
 
 - title: "Desarrollo de un algoritmo para la detección y eliminación de elementos mecatrónicos, y rellenado de regiones en plataforma robótica de rehabilitación neuromotora de miembro superior."
   url: 
@@ -37,14 +48,6 @@
   url: 
   author: Andrea Pérez Valle.
   tutor: Ana Cisnal de la Rica.
-  year: 2024.
-  studies: Grado en Ingeniería Biomédica.
-  state: 1
-
-- title: "Integración de dispositivo háptico en un entorno de rehabilitación de miembro superior."
-  url: 
-  author: Miguel Fernández Jaramillo.
-  tutor: Javier Pérez Turiel y Ana Cisnal de la Rica.
   year: 2024.
   studies: Grado en Ingeniería Biomédica.
   state: 1
