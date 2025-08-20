@@ -10,15 +10,24 @@
 
 # presentados 2025
 
+- title: "Determinación del estado emocional a través del análisis de video facial utilizando técnicas de Deep Learning."
+  url: 
+  author: Andrés Nolberto Falcones.
+  tutor: Eusebio de la Fuente y Ana Cisnal de la Rica.
+  year: 2025.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
+
+- title: "Diseño integral e implementación de un sistema mecatrónico automatizado e inteligente para la germinación de semillas."
+  url: 
+  author: Rodrigo Bratos García.
+  tutor: Juan Carlos Fraile Marinero y Ana Cisnal de la Rica.
+  year: 2025.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
+
 # presentados 2024
 
-- title: "Desarrollo de un algoritmo para la detección y eliminación de elementos mecatrónicos, y rellenado de regiones en plataforma robótica de rehabilitación neuromotora de miembro superior."
-  url: 
-  author: Diego Benavides Cobos.
-  tutor: Javier Pérez Turiel y Ana Cisnal de la Rica.
-  year: 2024.
-  studies: Máster en Ingeniería Biomédica.
-  state: 1
 
 - title: "Desarrollo de un algoritmo para la detección y eliminación de elementos mecatrónicos, y rellenado de regiones en plataforma robótica de rehabilitación neuromotora de miembro superior."
   url: 
