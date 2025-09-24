@@ -5,26 +5,26 @@
   number_educ: 0
   education1: 
 
-- name: Hugo García Sanz
-  photo: hgs.png
-  info: BSc student
-  email: 
-  number_educ: 0
-  education1: 
+#- name: Hugo García Sanz
+#  photo: hgs.png
+#  info: BSc student
+#  email: 
+#  number_educ: 0
+#  education1: 
 
-- name: Alba Iglesias Pascual
-  photo: aip.png
-  info: BSc student
-  email: 
-  number_educ: 0
-  education1: 
+#- name: Alba Iglesias Pascual
+#  photo: aip.png
+#  info: BSc student
+#  email: 
+#  number_educ: 0
+#  education1: 
 
-- name: Pablo Gómez Sánchez
-  photo: pbs.png
-  info: BSc student
-  email: 
-  number_educ: 0
-  education1: 
+#- name: Pablo Gómez Sánchez
+#  photo: pbs.png
+#  info: BSc student
+#  email: 
+#  number_educ: 0
+#  education1: 
 
 - name: Diego Almendro Wieczorek
   photo: daw.png
@@ -33,19 +33,19 @@
   number_educ: 0
   education1: 
 
-- name: Serafín Eiras Martín
-  photo: sem.png
-  info: Superior technician student
-  email: 
-  number_educ: 0
-  education1: 
+#- name: Serafín Eiras Martín
+#  photo: sem.png
+#  info: Superior technician student
+#  email: 
+#  number_educ: 0
+#  education1: 
 
-- name: Eduardo de la Fuente Hernández
-  photo: edh.png
-  info: Superior technician student
-  email: 
-  number_educ: 0
-  education1: 
+#- name: Eduardo de la Fuente Hernández
+#  photo: edh.png
+#  info: Superior technician student
+#  email: 
+#  number_educ: 0
+#  education1: 
 
 - name: Miguel Veganzones Parellada
   photo: mvl.png
@@ -54,23 +54,23 @@
   number_educ: 0
   education1: 
 
-- name: Andrea Pérez Valle
-  photo: apv.jpg
-  info: BSc student
-  email: 
-  number: 0
+#- name: Andrea Pérez Valle
+#  photo: apv.jpg
+#  info: BSc student
+#  email: 
+#  number: 0
 
-- name: Miguel Fernández Jaramillo
-  photo: mfj.jpg
-  info: BSc student
-  email: 
-  number: 0
+#- name: Miguel Fernández Jaramillo
+#  photo: mfj.jpg
+#  info: BSc student
+#  email: 
+#  number: 0
 
-- name: Miguel Flores Centeno
-  photo: mfc.jpg
-  info: BSc student
-  email: 
-  number: 0
+#- name: Miguel Flores Centeno
+#  photo: mfc.jpg
+#  info: BSc student
+#  email: 
+#  number: 0
 
 - name: Manuel Calderón Fraile
   photo: mcf.jpg
