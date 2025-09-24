@@ -56,7 +56,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a target="_blank" href="{{ publi.link.url | replace: '!!baseurl!!', site.url }}">{{ publi.link.display }}</a>
   {% endif %}
 {% endfor %}
-## Full List of Congress Papers
+## Full List of Conference Papers
 {% for publi in site.data.publist %}
   {% if publi.type == "congress" %}
   {{ publi.title }} <br />
