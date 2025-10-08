@@ -1,3 +1,43 @@
+- title: "Sistema de Rehabilitación de Muñeca con Realidad Aumentada mediante Eliminación Visual del Robot utilizando inpainting"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Benavides, D., Cisnal, A., de la Fuente, E., Fraile, J.C., Turiel, J.P.
+  link:
+    url: https://doi.org/10.17979/JA-CEA.2025.46.12152
+    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+  highlight: 0
+
+- title: "Evaluación de una Plataforma Háptica de Realidad Virtual para la Rehabilitación Funcional del Miembro Superior"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Fernández Jaramillo, M., Turiel, J.P., Fraile, J.C.
+  link:
+    url: https://doi.org/10.17979/JA-CEA.2025.46.12151
+    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+  highlight: 0
+
+- title: "Optimización de la Configuración de Puertos y del Posicionamiento de los Brazos Robóticos en Cirugía Laparoscópica Robotizada"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Fontúrbel, C., Cisnal, A., Turiel, J.P., Fraile, J.C.
+  link:
+    url: https://doi.org/10.17979/ja-cea.2025.46.12259
+    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+  highlight: 0
+
+- title: "Control de Fuerza basado en la Admitancia Mecánica para Masajes Robóticos"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Oña Simbaña, E.D., Jardón Huete, A., Fraile, J.C., Turiel, J.P.
+  link:
+    url: https://doi.org/10.17979/ja-cea.2025.46.12150
+    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+  highlight: 0
+
 - title: "Are Pat-Based Models Suitable for Continuous Blood Pressure Monitoring in Ambulatory Settings?"
   type: congress
   image: dummy.jpg
