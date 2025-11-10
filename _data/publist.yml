@@ -1,3 +1,13 @@
+- title: "Improved early prediction of acute pancreatitis severity using SHAP-based XGBoost model: Beyond traditional scoring systems"
+  type: congress
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Ruiz Rebollo, M.L., Flórez-Pardo, C., Matesanz-Isabel, J.,  Turiel, J.P., Fraile, J.C.
+  link:
+    url: https://doi.org/10.1016/j.dld.2025.10.017
+    display: "(2025) Digestive and Liver Disease Journal"
+  highlight: 0
+
 - title: "Sistema de Rehabilitación de Muñeca con Realidad Aumentada mediante Eliminación Visual del Robot utilizando inpainting"
   type: congress
   image: dummy.jpg
