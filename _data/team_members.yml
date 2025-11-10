@@ -43,15 +43,7 @@
   education1: <a href="https://orcid.org/0000-0002-1556-7179">Link to ORCID</a>
   education2: <a href="https://scholar.google.com/citations?hl=en&user=V5jQOYMAAAAJ">Link to Google Scholar</a>
   education3: <a href="https://www.researchgate.net/profile/Ana-Cisnal-2">Link to ResearchGate</a>
- 
-- name: Borja Fernández Villar
-  photo: bfv.png
-  info: PhD student
-  email: gmail.com
-  number_educ: 3
-  education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
-  education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
-  education3: <a href="https://www.researchgate.net/profile/Borja-Fernandez-10">Link to ResearchGate</a>
+
   
 - name: Víctor Moreno San Juan
   photo: vmsj.jpg
@@ -82,6 +74,13 @@
   email: 
   number_educ: 0
   education1: 
+
+- name: Diego Benavides Cobos
+  photo: dbc.png
+  info: Research Assistant
+  email: gmail.com
+  number_educ: 0
+  education1:
 
   
  

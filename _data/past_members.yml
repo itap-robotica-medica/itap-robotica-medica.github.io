@@ -1,3 +1,12 @@
+- name: Borja Fernández Villar
+  photo: bfv.png
+  info: PhD student
+  email: gmail.com
+  number_educ: 3
+  education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
+  education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Borja-Fernandez-10">Link to ResearchGate</a>
+
 - name: Diego de las Heras Rebellón
   photo: dhr.png
   info: Research Assistant
