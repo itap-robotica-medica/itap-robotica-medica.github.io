@@ -48,7 +48,7 @@
     display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
   highlight: 0
 
-- title: "Are Pat-Based Models Suitable for Continuous Blood Pressure Monitoring in Ambulatory Settings?"
+- title: "Are PAT-Based Models Suitable for Continuous Blood Pressure Monitoring in Ambulatory Settings?"
   type: congress
   image: dummy.jpg
   description:
@@ -218,7 +218,7 @@
     display: (2023) IEEE Access, vol. 11, 35726-35736
   highlight: 0
   
-- title: "Interaction with a hand rehabilitation exoskeleton in emg-driven bilateral therapy: Influence of visual biofeedback on the users’ performance"
+- title: "Interaction with a hand rehabilitation exoskeleton in EMG-driven bilateral therapy: Influence of visual biofeedback on the users’ performance"
   type: journal
   image: dummy.png
   description: ""
