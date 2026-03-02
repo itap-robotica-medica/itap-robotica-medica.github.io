@@ -1,3 +1,13 @@
+- title: "Robust learning framework for a scalable remote monitoring of autonomic dysreflexia: use-case in spinal cord injury"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Fuchs, B., Ejtehadi, M., Cisnal, A., Pannek, J., Scheel-Sailer, A., Riener, R., Eriks-Hoogland, I., Paez-Granados, D.
+  link:
+    url: https://doi.org/10.1038/s41598-025-33797-8
+    display: "(2026) Scientific Reports"
+  highlight: 0
+
 - title: "Improved early prediction of acute pancreatitis severity using SHAP-based XGBoost model: Beyond traditional scoring systems"
   type: journal
   image: dummy.jpg
