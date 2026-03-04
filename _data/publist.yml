@@ -15,7 +15,7 @@
   authors: Cisnal, A., Ruiz Rebollo, M.L., Flórez-Pardo, C., Matesanz-Isabel, J.,  Turiel, J.P., Fraile, J.C.
   link:
     url: https://doi.org/10.1016/j.dld.2025.10.017
-    display: "(2025) Digestive and Liver Disease Journal"
+    display: "(2025) Digestive and Liver Disease Journal, vol. 58, n. 1, pp. 104-112"
   highlight: 0
 
 - title: "Sistema de Rehabilitación de Muñeca con Realidad Aumentada mediante Eliminación Visual del Robot utilizando inpainting"
@@ -25,7 +25,7 @@
   authors: Benavides, D., Cisnal, A., de la Fuente, E., Fraile, J.C., Turiel, J.P.
   link:
     url: https://doi.org/10.17979/JA-CEA.2025.46.12152
-    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+    display: "(2025) XLIV Jornadas de Automática, n. 46"
   highlight: 0
 
 - title: "Evaluación de una Plataforma Háptica de Realidad Virtual para la Rehabilitación Funcional del Miembro Superior"
@@ -35,7 +35,7 @@
   authors: Cisnal, A., Fernández Jaramillo, M., Turiel, J.P., Fraile, J.C.
   link:
     url: https://doi.org/10.17979/JA-CEA.2025.46.12151
-    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+    display: "(2025) XLIV Jornadas de Automática, n. 46"
   highlight: 0
 
 - title: "Optimización de la Configuración de Puertos y del Posicionamiento de los Brazos Robóticos en Cirugía Laparoscópica Robotizada"
@@ -45,7 +45,7 @@
   authors: Fontúrbel, C., Cisnal, A., Turiel, J.P., Fraile, J.C.
   link:
     url: https://doi.org/10.17979/ja-cea.2025.46.12259
-    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+    display: "(2025) XLIV Jornadas de Automática, n. 46"
   highlight: 0
 
 - title: "Control de Fuerza basado en la Admitancia Mecánica para Masajes Robóticos"
@@ -55,7 +55,7 @@
   authors: Cisnal, A., Oña Simbaña, E.D., Jardón Huete, A., Fraile, J.C., Turiel, J.P.
   link:
     url: https://doi.org/10.17979/ja-cea.2025.46.12150
-    display: "(2025) XLIV Jornadas de Automática, pp. 1-6"
+    display: "(2025) XLIV Jornadas de Automática, n. 46"
   highlight: 0
 
 - title: "Are PAT-Based Models Suitable for Continuous Blood Pressure Monitoring in Ambulatory Settings?"
@@ -95,7 +95,7 @@
   authors: Cisnal, A., Turiel, J.P., Fraile, J.C.
   link:
     url: https://doi.org/10.1007/978-3-031-77588-8_76
-    display: (2024) Proceedings of the 6th International Conference on Neurorehabilitation, 379-383
+    display: (2024) Proceedings of the 6th International Conference on Neurorehabilitation, pp. 379-383
   highlight: 0
 
 - title: "Modelo automático e integrable en tiempo real para la localización de herramientas de cirugía laparoscópica"
@@ -104,8 +104,8 @@
   description:
   authors: Benavides, D., Cisnal, A., de la Fuente, E., Turiel, J.P.
   link:
-    url: https://dehesa.unex.es:8443/handle/10662/21260
-    display: (2024) Simposio de Robótica, Bioingeniería y visión por computador, 269-274
+    url: https://dehesa.unex.es/entities/publication/bd22d0f2-1c5c-4900-9095-ecbeef8c0164
+    display: (2024) Simposio de Robótica, Bioingeniería y visión por computador, pp. 269-274
   highlight: 0
 
 - title: "Training Fully Convolutional Neural Networks for Lightweight, Non-Critical Instance Segmentation Applications"
@@ -115,7 +115,7 @@
   authors: Veganzones, M., Cisnal, A., de la Fuente, E., Fraile, J.C.
   link:
     url: https://doi.org/10.3390/app142311357
-    display: (2024) Applied ScienceS 14(23), 1-19
+    display: (2024) Applied Sciences, vol. 14, n. 23, pp. 1-19
   highlight: 0
 
 - title: "Dispositivo háptico para la rehabilitación de dedo. Estudio preliminar"
@@ -125,7 +125,7 @@
   authors: Almendro, D., Cisnal, A., Pérez-Turiel, J. Fraile, J.C.
   link:
     url: https://doi.org/10.17979/ja-cea.2024.45.10823
-    display: (2024) XLIII Jornadas de Automática, 1-6
+    display: (2024) XLIII Jornadas de Automática, n. 45
   highlight: 0
 
 - title: "Real-Time Tool Localization for Laparoscopic Surgery Using Convolutional Neural Network"
@@ -135,7 +135,7 @@
   authors: Benavides, D., Cisnal, A., Fontúrbel, C., de la Fuente, E., Fraile, J.C.
   link:
     url: "https://doi.org/10.3390/s24134191"
-    display: (2024) Sensors 24 (13), 4191
+    display: (2024) Sensors, vol. 24, n. 13, pp. 4191
   highlight: 0
 
 - title: "Robust Feature Selection for BP Estimation in Multiple Populations: Towards Cuffless Ambulatory BP Monitoring"
@@ -144,8 +144,8 @@
   description:
   authors: Cisnal, A., Li, Y., Fuchs, B., Ejtehadi, M., Riener, R., Paez-Granados, D.
   link:
-    url: "https://ieeexplore.ieee.org/document/10552318"
-    display: (2024) IEEE Journal of Biomedical and Health Informatics, 1-12
+    url: "https://doi.org/10.1109/JBHI.2024.3411693"
+    display: (2024) IEEE Journal of Biomedical and Health Informatics, vol. 28, n. 10, pp. 1-12
   highlight: 0
 
 - title: "Machine Learning-Based Prediction of Cattle Activity Using Sensor-Based Data"
@@ -154,8 +154,8 @@
   description:
   authors: Hernández, G., González-Sánchez, C., González-Arrieta, A., Sánchez-Brizuela, G., Fraile, J.C.,   
   link:
-    url: "https://www.mdpi.com/1424-8220/24/10/3157"
-    display: (2024) Sensors 24 (10), 3157
+    url: "https://doi.org/10.3390/s24103157"
+    display: (2024) Sensors, vol. 24, n. 10, pp. 3157
   highlight: 0
 
 - title: "Grasper-Needle Coordination in Robotic Laparoscopic Surgery: Potential Fields Approach"
@@ -164,8 +164,8 @@
   description:
   authors: Fontúrbel, C., Fraile, JC., Pérez-Turiel, J.
   link:
-    url: "https://link.springer.com/chapter/10.1007/978-3-031-59167-9_38"
-    display: (2023) VI Iberian Robotics Conference, 462-473
+    url: "https://doi.org/10.1007/978-3-031-59167-9_38"
+    display: (2023) VI Iberian Robotics Conference, pp. 462-473
   highlight: 0
 
 - title: "M3Display: Sistema de realidad aumentada para la rehabilitación de la función motora del miembro superior"
@@ -175,7 +175,7 @@
   authors: Cisnal, A., Alonso-Linaje, G., Veganzones, M., Pérez-Turiel, J., Fraile, JC.
   link:
     url: "http://hdl.handle.net/10317/13479"
-    display: (2023) XLI Congreso Anual de la Sociedad Española de Ingeniería Biomédica, 161-164
+    display: (2023) XLI Congreso Anual de la Sociedad Española de Ingeniería Biomédica, pp. 161-164
   highlight: 0
 
 - title: "Tackling Post-COVID-19 Rehabilitation Challenges: A Pilot Clinical Trial Investigating the Role of Robotic-Assisted Hand Rehabilitation"
@@ -184,8 +184,8 @@
   description:
   authors: Cisnal, A., Alonso-Linaje, G., Fraile, JC., Pérez-Turiel, J., Álvarez, P., Martinez, S.
   link:
-    url: "https://www.mdpi.com/2077-0383/13/6/1543"
-    display: (2024) Journal of Clinical Medicine, vol. 13, 1543
+    url: "https://doi.org/10.3390/jcm13061543"
+    display: (2024) Journal of Clinical Medicine, vol. 13, n. 6, pp. 1543
   highlight: 0
 
 - title: "Design and Analysis of the M3Rob: A Robotic Platform for Wrist and Hand Rehabilitation"
@@ -194,8 +194,8 @@
   description: 
   authors: Alonso-Linaje, G., Cisnal, A., Fraile, JC., Pérez-Turiel, J.
   link:
-    url: "https://ieeexplore.ieee.org/iel7/6287639/6514899/10445186.pdf"
-    display: (2024) IEEE Access, vol. 12, 30472-30481
+    url: "https://doi.org/10.1109/ACCESS.2024.3369908"
+    display: (2024) IEEE Access, vol. 12, pp. 30472-30481
   highlight: 0
 
 - title: "Lightweight real-time hand segmentation leveraging MediaPipe landmark detection"
@@ -205,7 +205,7 @@
   authors: Sánchez-Brizuela, G., Cisnal, A., De la Fuente-López, E., Fraile, JC., Pérez-Turiel, J.
   link: 
     url: "https://doi.org/10.1007/s10055-023-00858-0" 
-    display: (2023) Virtual Reality, vol. 27, 3125–3132
+    display: (2023) Virtual Reality, vol. 27, n. 4, pp. 3125–3132
   highlight: 0
 
 - title: "M3Rob: Plataforma robotizada para la rehabilitación de muñeca. Aspectos de diseño y arquitectura de control."
@@ -214,8 +214,8 @@
   description: 
   authors: Cisnal, A., Alonso-Linaje, G., Granja, J., Veganzones , M., Pérez-Turiel, J., Fraile, J.C.
   link: 
-    url: "http://hdl.handle.net/2183/33118"
-    display: (2023) XLIV Jornadas de Automática, 29-34
+    url: "https://doi.org/10.17979/spudc.9788497498609"
+    display: (2023) XLIV Jornadas de Automática, pp. 29-34
   highlight: 0
 
 - title: "A Versatile Embedded Platform for Implementation of Biocooperative Control in Upper-Limb Neuromotor Rehabilitation Scenarios"
@@ -224,8 +224,8 @@
   description: ""
   authors: Cisnal, A., Antolínez, D., Turiel, J., Fraile, JC., De la Fuente, E.
   link:
-    url: "https://ieeexplore.ieee.org/document/10097735"
-    display: (2023) IEEE Access, vol. 11, 35726-35736
+    url: "https://doi.org/10.1109/ACCESS.2023.3265898"
+    display: (2023) IEEE Access, vol. 11, pp. 35726-35736
   highlight: 0
   
 - title: "Interaction with a hand rehabilitation exoskeleton in EMG-driven bilateral therapy: Influence of visual biofeedback on the users’ performance"
@@ -234,8 +234,8 @@
   description: ""
   authors:  Cisnal, A., Gordaliza, P., Pérez Turiel, J., Fraile, JC.
   link:
-    url: "https://www.mdpi.com/1424-8220/23/4/2048"
-    display: (2023) Sensors 23 (4), 2048
+    url: "https://doi.org/10.3390/s23042048"
+    display: (2023) Sensors, vol.  23, n. 4, pp. 2048
   highlight: 0
   
 - title: "Force-based control strategy for a collaborative robotic camera holder in laparoscopic surgery using pivoting motion"
@@ -244,8 +244,8 @@
   description: ""
   authors: Fontúrbel, C., Cisnal, A., Fraile-Marinero, JC., Pérez-Turiel, J.
   link:
-    url: "https://www.frontiersin.org/articles/10.3389/frobt.2023.1145265/full"
-    display: (2023) Frontiers in Robotics and AI, vol. 10, 1145265.
+    url: "https://doi.org/10.3389/frobt.2023.1145265"
+    display: (2023) Frontiers in Robotics and AI, vol. 10
   highlight: 0
 
 - title: "Hand rehabilitation based on the RobHand exoskeleton in stroke patients: A case series study"
@@ -254,8 +254,8 @@
   description: ""
   authors: Barria, P., Riquelme, M., Reppich, H., Cisnal, A., Fraile, JC., Pérez-Turiel, J., Sierra, D., Aguilar, R., Andrade, A., Nuñez-Espinosa, C.
   link:
-    url: "https://www.frontiersin.org/articles/10.3389/frobt.2023.1146018/full"
-    display: (2023) Frontiers in Robotics and AI, vol. 10, 1146018.
+    url: "https://doi.org/10.3389/frobt.2023.1146018"
+    display: (2023) Frontiers in Robotics and AI, vol. 10
   highlight: 0
 
 - title: "An Overview of M3Rob, a Robotic Platform for Neuromotor and Cognitive Rehabilitation Using Augmented Reality"
@@ -265,7 +265,7 @@
   authors: Cisnal, A., Martínez-Cagigal, V., Alonso-Linaje, G., Moreno-Calderón, S., Pérez-Turiel, J., Hornero, R., Fraile, JC.
   link:
     url: "https://gib.tel.uva.es/m3rob/docs/congresos/anacisnal_caseib22.pdf"
-    display: (2022) XL Congreso Anual de la Sociedad Española de Ingeniería Biomédica. 23–25 
+    display: (2022) XL Congreso Anual de la Sociedad Española de Ingeniería Biomédica,  pp. 23–25 
   highlight: 0
 
 - title: "Assessment of the Patient’s Emotional Response with the RobHand Rehabilitation Platform: A Case Series Study"
@@ -274,8 +274,8 @@
   description: ""
   authors: Cisnal. A., Moreno-SanJuan, V., Fraile, JC., Turiel, J., De-la-Fuente, E., Sánchez-Brizuela, G.
   link:
-    url: "https://www.mdpi.com/2077-0383/11/15/4442"
-    display: (2022), Journal of Clinical Medicine 11(15), 4442
+    url: "https://doi.org/10.3390/jcm11154442"
+    display: (2022), Journal of Clinical Medicine vol. 11, n. 15, pp. 4442
   highlight: 0
   
 - title: "Gauze Detection and Segmentation in Minimally Invasive Surgery Video Using Convolutional Neural Networks"
@@ -284,8 +284,8 @@
   description: ""
   authors: Sanchez-Brizuela, G., Santos-Criado, F. J., Sanz-Gobernado, D., de la Fuente, E., Fraile, J. C., Pérez-Turiel, J., Cisnal, A.
   link:
-    url: https://www.mdpi.com/1424-8220/22/14/5180
-    display: (2022) Sensors, 22(14), 5180
+    url: https://doi.org/10.3390/s22145180
+    display: (2022) Sensors, vol. 22, n. 14, pp. 5180
   highlight: 0
 
 - title: "Segmentación Semántica de Elementos Mecánicos en Entornos Aumentados de Rehabilitación"
@@ -315,7 +315,7 @@
   authors: Fontúrbel, C., Ayuso-Lera, A., Fraile, J.C., Pérez Turiel, J.
   link:
     url: https://ruc.udc.es/dspace/handle/2183/31418
-    display: (2022) XLIII Jornadas de Automática, 993-1000
+    display: (2022) XLIII Jornadas de Automática, pp. 993-1000
   highlight: 0
   
 - title: "Control de exoesqueleto de rehabilitación de mano con Leap Motion Controller"
@@ -325,7 +325,7 @@
   authors: Sierra, D., Sánchez Brizuela, G., Pérez Turiel, J., Fraile, J.C.
   link:
     url: https://ruc.udc.es/dspace/handle/2183/31371
-    display: (2022) XLIII Jornadas de Automática, 141-147
+    display: (2022) XLIII Jornadas de Automática, pp. 141-147
   highlight: 0
   
 - title: "An Embedded Implementation of EMG-Driven Control for Assisted Bilateral Therapy"
@@ -334,8 +334,8 @@
   description: ""
   authors: Cisnal, A., Moreno-SanJuan, V., Sierra, D., Pérez-Turiel, J., Fraile, J. C.
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-70316-5_130
-    display: (2022) International Conference on NeuroRehabilitation, pp. 817-821, Springer, Cham
+    url: https://doi.org/10.1007/978-3-030-70316-5_130
+    display: (2022) International Conference on NeuroRehabilitation, pp. 817-821
   highlight: 0
   
 - title: "RobHand: A Hand Exoskeleton With Real-Time EMG-Driven Embedded Control. Quantifying Hand Gesture Recognition Delays for Bilateral Rehabilitation"
@@ -349,7 +349,7 @@
     replicates the gesture on the exoskeleton placed on the paretic hand."
   authors: Cisnal, A., Pérez-Turiel, J., Fraile, J. C., Sierra, D., & de la Fuente, E.
   link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562297
+    url: https://doi.org/10.1109/ACCESS.2021.3118281
     display: (2021) IEEE Access, vol. 9, pp. 137809-137823
   highlight: 1
   
@@ -359,8 +359,8 @@
   description: ""
   authors: Moreno-SanJuan, V., Cisnal, A., Fraile, J. C., Pérez-Turiel, J., & de la Fuente, E.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0921889021001135
-    display: (2021) Robotics and Autonomous Systems, Volume 143, 103828.
+    url: https://doi.org/10.1016/j.robot.2021.103828
+    display: (2021) Robotics and Autonomous Systems, vol. 143, pp. 103828.
   highlight: 0
   
 - title: "Collaborative Robotic Assistant Platform for Endonasal Surgery: Preliminary In-Vitro Trials"
@@ -374,8 +374,8 @@
     control scheme were validated by in-vitro tests."
   authors: Muñoz, V.F., Garcia-Morales, I., Fraile-Marinero,  J.C., Perez-Turiel, J., Muñoz-Garcia, A., Bauzano, E., Rivas-Blanco, I., Sabater-Navarro, J.M., & de la Fuente, E.
   link:
-    url: https://www.mdpi.com/1424-8220/21/7/2320
-    display: (2021) Sensors, 21(7), 2320
+    url: https://doi.org/10.3390/s21072320
+    display: (2021) Sensors, vol. 21, n. 7, pp. 2320
   highlight: 1
   
 - title: "Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand"
@@ -385,7 +385,7 @@
   authors: Cisnal, A., Sierra, D., Perez-Turiel, J., Fraile-Marinero, J.C
   link:
     url: https://ruc.udc.es/dspace/handle/2183/28300
-    display: "(2021) XLII Jornadas de Automática: libro de actas, 152-159, Castellón, 1 a 3 de septiembre"
+    display: "(2021) XLII Jornadas de Automática: libro de actas, pp. 152-159"
   highlight: 0
 
 - title: "Integración de Bio-realimentación visual de EMG en un exoesqueleto de rehabilitación de mano (RobHand) utilizando entornos de realidad virtual"
@@ -395,7 +395,7 @@
   authors: Cisnal, A., Sierra, D., Turiel, J. P., Fraile, J. C., de la Fuente, E.
   link:
     url: https://burjcdigital.urjc.es/bitstream/handle/10115/17868/Actas_V2%20%281%29.pdf?sequence=3&isAllowed=y
-    display: (2021) XII Simposio CEA de Bioingeniería, 89–94
+    display: (2021) XII Simposio CEA de Bioingeniería, pp. 89–94
 
 - title: "Prediction of Cow Calving in Extensive Livestock Using a New Neck-Mounted Sensorized Wearable Device: A Pilot Study"
   type: journal
@@ -404,7 +404,7 @@
   authors: Gonzalez-Sanchez, C., Sanchez-Brizuela, G., Cisnal, A., Fraile, J. C., Pérez-Turiel, J., de la Fuente, E.
   link:
     url: https://www.mdpi.com/1424-8220/21/23/8060/htm
-    display: (2021) Sensors, 21(23), 8060
+    display: (2021) Sensors, vol. 21, n. 23, pp. 8060
   highlight: 0
   
 #- title: "Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand"
@@ -433,8 +433,8 @@
   description: ""
   authors: de la Fuente Lopez, E., Garcia, A. M., del Blanco, L. S., Fraile, J. C., & Turiel, J. P. 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S016926071931291X?via%3Dihub
-    display: (2020) Computer Methods and Programs in Biomedicine, 105378.
+    url: https://doi.org/10.1016/j.cmpb.2020.105378
+    display: (2020) Computer Methods and Programs in Biomedicine, vol. 190
   highlight: 0
   
 - title: "Influence on the user's emotional state of the graphic complexity level in virtual therapies based on a robot-assisted neuro-rehabilitation platform"
@@ -444,7 +444,7 @@
   authors: Villar, B. F., Viñas, P. F., Turiel, J. P., Fraile, J. C., & Gordaliza, A.
   link:
     url: https://doi.org/10.1016/j.cmpb.2020.105359
-    display: (2020) Computer Methods and Programs in Biomedicine, 105359.
+    display: (2020) Computer Methods and Programs in Biomedicine, vol. 190
   highlight: 0
   
 #- title: "Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform"
@@ -464,7 +464,7 @@
   authors: Cisnal, A., Moreno, V., Alonso, R., Lobo, V., Fraile, J.C., Turiel, J.P.
   link:
     url: https://thegardenofcuriosity.untref.edu.ar/img/18_c3d/PDF_C3D_Publicacio%CC%81n-IBERDISCAP_01.pdf
-    display: (2019) Iberdiscap. X Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, 158-159
+    display: (2019) Iberdiscap. X Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, pp. 158-159
   highlight: 0
   
 - title: "Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes"
@@ -473,8 +473,8 @@
   description: ""
   authors: Cisnal, A., R Ihmig, F., Fraile, J. C., Pérez-Turiel, J., & Muñoz-Martinez, V. 
   link:
-    url: https://www.mdpi.com/1424-8220/19/12/2725
-    display: (2019) MDPI Sensors, 19(12), 2725.
+    url: https://doi.org/10.3390/s19122725
+    display: (2019) MDPI Sensors, vol. 19, n. 12, pp. 2725.
   highlight: 0
   
 - title: "Monitoring System for Laboratory Mice Transportation: A Novel Concept for the Measurement of Physiological and Environmental Parameters"
@@ -483,8 +483,8 @@
   description: ""
   authors: González-Sánchez, C., Fraile, J. C., Pérez-Turiel, J., Damm, E., Schneider, J. G., Schmitt, D., & Ihmig, F. R.
   link:
-    url: https://www.mdpi.com/2079-9292/8/1/34
-    display: (2019) MDPI Electronics, 8(1), 34.
+    url: https://doi.org/10.3390/electronics8010034
+    display: (2019) MDPI Electronics, vol. 8, n. 1, pp. 34
   highlight: 0
   
 - title: "A measurement setup and automated calculation method to determine the charge injection capacity of implantable microelectrodes"
@@ -493,8 +493,8 @@
   description: ""
   authors: Cisnal, A., Fraile, J. C., Pérez-Turiel, J., Muñoz-Martinez, V., M¸ller, C., & R Ihmig, F.
   link:
-    url: https://www.mdpi.com/1424-8220/18/12/4152
-    display: (2018) MDPI Sensors, 18(12), 4152.
+    url: https://doi.org/10.3390/s18124152
+    display: (2018) MDPI Sensors, vol. 18, n. 12, pp. 4152
   highlight: 0
   
 - title: "Dynamic gesture recognition using a smart glove in hand-assisted laparoscopic surgery"
@@ -503,8 +503,8 @@
   description: ""
   authors: Santos, L., Carbonaro, N., Tognetti, A., González, J. L., De la Fuente, E., Fraile, J. C., & Pérez-Turiel, J. 
   link:
-    url: https://www.mdpi.com/2227-7080/6/1/8
-    display: (2018) Technologies, 6(1), 8.
+    url: https://doi.org/10.3390/technologies6010008
+    display: (2018) Technologies, vol. 6, n. 1, pp. 8
   highlight: 0
 
 - title: "Robot para rehabilitación de las funciones de la mano mediante terapias activas, en personas con discapacidad neuromotora"
@@ -524,8 +524,8 @@
   description: ""
   authors: Barrios, L. J., Hornero, R., Pérez-Turiel, J., Pons, J. L., Vidal, J., & Azorín, J. M.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S1697791217300419
-    display: (2017) Revista Iberoamericana de Automática e Informática Industrial RIAI, 14(4), 346-354.
+    url: https://doi.org/10.1016/j.riai.2017.06.003
+    display: (2017) Revista Iberoamericana de Automática e Informática Industrial RIAI, vol. 14, n. 4, pp. 346-354
   highlight: 0
   
 - title: "Improving challenge/skill ratio in a multimodal interface by simultaneously adapting game difficulty and haptic assistance through psychophysiological and performance feedback"
@@ -534,8 +534,8 @@
   description: ""
   authors: Rodriguez-Guerrero, C., Knaepen, K., Fraile-Marinero, J. C., Pérez-Turiel, J., González-de-Garibay, V., & Lefeber, D.
   link:
-    url: https://www.frontiersin.org/articles/10.3389/fnins.2017.00242/full
-    display: (2017) Frontiers in neuroscience, 11, 242.
+    url: https://doi.org/10.3389/fnins.2017.00242
+    display: (2017) Frontiers in neuroscience, vol. 11
   highlight: 0
   
 - title: "Robotic platform for surgery assistance in single incision laparoscopic techniques"
@@ -545,7 +545,7 @@
   authors: Sabater-Navarro, J. M., García, A., Company Rosique, A., Munoz Martínez, V., Rivas, I., García Morales, I., ... & Santos del Blanco, L.
   link:
     url: https://doi.org/10.1002/bjs.10481
-    display: "(2017) British Journal of Surgery, 104, 24"
+    display: "(2017) British Journal of Surgery, vol. 104, pp. 5-25"
   highlight: 0
   
 - title: "Smart cable-driven camera robotic assistant"
@@ -554,8 +554,8 @@
   description: ""
   authors: Rivas-Blanco, I., López-Casado, C., Pérez-del-Pulgar, C. J., García-Vacas, F., Fraile, J. C., & Muñoz, V. F. 
   link:
-    url: https://ieeexplore.ieee.org/document/8107576
-    display: (2017) IEEE Transactions on Human-Machine Systems, 48(2), 183-196.
+    url: https://doi.org/10.1109/THMS.2017.2767286
+    display: (2017) IEEE Transactions on Human-Machine Systems, vol. 48, n. 2, pp. 183-196
   highlight: 0
   
 - title: "E2Rebot: a robotic platform for upper limb rehabilitation in patients with neuromotor disability"
@@ -564,8 +564,8 @@
   description: ""
   authors: Fraile, J. C., Pérez-Turiel, J., Baeyens, E., Vinas, P., Alonso, R., Cuadrado, A., ... & Nieto, F.
   link:
-    url: https://journals.sagepub.com/doi/10.1177/1687814016659050
-    display: (2016) Advances in Mechanical Engineering, 8(8), 1687814016659050.
+    url: https://doi.org/10.1177/1687814016659050
+    display: (2016) Advances in Mechanical Engineering, vol. 8, n. 8
   highlight: 0
   
 - title: "Capacitive sensing for non-invasive breathing and heart monitoring in non-restrained, non-sedated laboratory mice"
@@ -574,8 +574,8 @@
   description: ""
   authors: González-Sánchez, C., Fraile, J. C., Pérez-Turiel, J., Damm, E., Schneider, J. G., Zimmermann, H., ... & Ihmig, F. R.
   link:
-    url: https://www.mdpi.com/1424-8220/16/7/1052
-    display: (2016) MDPI Sensors, 16(7), 1052.
+    url: https://doi.org/10.3390/s16071052
+    display: (2016) MDPI Sensors, vol. 16, n. 7, pp. 1052
   highlight: 0
   
 - title: "Neuromuscular electrical stimulation modelling by physiological and black-box approach"
@@ -584,8 +584,8 @@
   description: ""
   authors: Pinuela-Martín, E., del-Ama, A. J., Fraile-Marinero, J. C., & Gil-Agudo, A.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S1697791216300073
-    display: (2016) Revista Iberoamericana de Automática e Informática Industrial RIAI, 13(3), 330-337.
+    url: https://doi.org/10.1016/j.riai.2015.09.012
+    display: (2016) Revista Iberoamericana de Automática e Informática Industrial RIAI, vol. 13, n. 3, pp. 330-337.
   highlight: 0
   
 - title: "Introduction to special section Cooperative human-robot interaction in the clinical setting"
@@ -595,7 +595,7 @@
   authors: Casals, A., García-Aracil, N., & Pérez Turiel, J.
   link:
     url: https://www.researchgate.net/publication/270007303_Introduccion_a_la_seccion_especial_Interaccion_cooperativa_persona-robot_en_el_entorno_clinico
-    display: (2015) Revista Iberoamericana de Automática e Informática industrial (RIAI), 12(1), 79.
+    display: (2015) Revista Iberoamericana de Automática e Informática industrial (RIAI), vol. 12, n. 1, pp. 79.
   highlight: 0
   
 - title: 'Using "human state aware" robots to enhance physical human-robot interaction in a cooperative scenario'
@@ -604,8 +604,8 @@
   description: ""
   authors: Guerrero, C. R., Fraile, J. C., Turiel, J. P., & Muñoz, V. 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0169260713000552?via%3Dihub
-    display: (2013) Computer methods and programs in biomedicine, 112(2), 250-259.
+    url: https://doi.org/10.1016/j.cmpb.2013.02.003
+    display: (2013) Computer methods and programs in biomedicine, vol. 112, n. 2, pp. 250-259.
   highlight: 0
   
 - title: "A minimally invasive surgery robotic assistant for HALS-SILS techniques"
@@ -614,8 +614,8 @@
   description: ""
   authors: Bauzano, E., García-Morales, I., del Saz-Orozco, P., Fraile, J. C., & Muñoz, V. F.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0169260713000527?via%3Dihub
-    display: (2013) Computer methods and programs in biomedicine, 112(2), 272-283.
+    url: https://doi.org/10.1016/j.cmpb.2013.01.017
+    display: (2013) Computer methods and programs in biomedicine, vol. 112, n. 2, pp. 272-283.
   highlight: 0
 
 - title: "Robot Biocooperativo con Modulación Háptica para Tareas de Neurorehabilitación de los Miembros Superiores"
@@ -624,8 +624,8 @@
   description: ""
   authors: Rodríguez-Guerrero, C., Fraile, J. C., Pérez-Turiel, J., & Farina, P. R.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S1697791211700279
-    display: (2011) Revista Iberoamericana de Automática e Informática Industrial RIAI, 8(2), 63-70.
+    url: https://doi.org/10.1016/S1697-7912(11)70027-9
+    display: (2011) Revista Iberoamericana de Automática e Informática Industrial RIAI, vol. 8, n. 2, pp. 63-70.
   highlight: 0
   
 - title: "Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform"
@@ -634,8 +634,8 @@
   description: ""
   authors: García, ¡. M., Rivas, I., Turiel, J. P., Muñoz, V., Marinero, J. C. F., de la Fuente, E., & Sabater, J. M.
   link:
-    url: https://link.springer.com/chapter/10.1007%2F978-3-030-36150-1_37
-    display: (2019) Iberian Robotics conference (pp. 453-464). Springer, Cham.
+    url: https://doi.org/10.1007/978-3-030-36150-1_37
+    display: (2019) Iberian Robotics conference, pp. 453-464
   highlight: 0
 
 - title: "Estrategia para el control háptico, basado en electromiografía, de un exoesqueleto de mano para neurorehabilitación"
@@ -655,7 +655,7 @@
   authors: Loidi Yarza, A., Estop Remacha, R., Fraile, J. C., & Pérez Turiel, J. 
   link:
     url: https://ruc.udc.es/dspace/handle/2183/23668
-    display: (2019) XL Jornadas de Automática (pp. 94-100). Universidade da Coruña, Servizo de Publicacións.
+    display: (2019) XL Jornadas de Automática, pp. 94-100
   highlight: 0
 
 - title: "EMG Based Bio-Cooperative Direct Force Control of an Exoskeleton for Hand Rehabilitation: A Preliminary Study"
@@ -664,8 +664,8 @@
   description: ""
   authors: Cisnal, A., Alonso, R., Turiel, J. P., Fraile, J. C., Lobo, V., & Moreno, V. 
   link:
-    url: https://link.springer.com/chapter/10.1007%2F978-3-030-01845-0_78
-    display: (2018) International Conference on NeuroRehabilitation (pp. 390-394). Springer, Cham.
+    url: https://doi.org/10.1007/978-3-030-01845-0_78
+    display: (2018) International Conference on NeuroRehabilitation, pp. 390-394
   highlight: 0
 
 - title: "Sistema de visión para seguimiento automático de gasas quirúrgicas en cirugía laparoscópica"
@@ -675,7 +675,7 @@
   authors: Muñoz García, A., Santos del Blanco, L., Fraile Marinero, J. C., & Pérez Turiel, J.
   link:
     url: https://ruc.udc.es/dspace/handle/2183/24879
-    display: (2018) Actas de las XXXIX Jornadas de Automática, Badajoz, 5-7 de Septiembre.
+    display: (2018) Actas de las XXXIX Jornadas de Automática
   highlight: 0
 
 - title: "Robhand, un exoesqueleto de mano para la rehabilitación neuromotora aplicando terapias activas y pasivas"
@@ -685,7 +685,7 @@
   authors: Cisnal, A., Lobo, V., Moreno, V., Fraile, J. C., Alonso, R., & Turiel, J. P. 
   link:
     url: https://ruc.udc.es/dspace/handle/2183/24837
-    display: (2018) Actas de las XXXIX Jornadas de Automática, Badajoz
+    display: (2018) Actas de las XXXIX Jornadas de Automática
   highlight: 0
 
 - title: "Characterization of Hand Movements using a Sensing Glove in Hand Assisted Laparoscopic Surgery"
@@ -694,8 +694,8 @@
   description: ""
   authors: Santos, L., Carbonaro, N., Tognetti, A., González, L., Fraile, J. C., Turiel, J. P., & De La Fuente, E.
   link:
-    url: https://dl.acm.org/doi/10.1145/3168776.3168793
-    display: (2017) Proceedings of the 2017 4th International Conference on Biomedical and Bioinformatics Engineering (pp. 63-67).
+    url: https://doi.org/10.1145/3168776.3168793
+    display: (2017) Proceedings of the 2017 4th International Conference on Biomedical and Bioinformatics Engineering, pp. 63-67
   highlight: 0
 
 - title: "Parallel computing for real time gauze detection in laparoscopy images"
@@ -704,8 +704,8 @@
   description: ""
   authors: de la Fuente, E., Trespaderne, F. M., Santos, L., Fraile, J. C., & Turiel, J. P.
   link:
-    url: https://ieeexplore.ieee.org/document/8095328
-    display: (2017) 2nd IEEE International Conference on Bio-engineering for Smart Technologies (BioSMART) (pp. 1-5).
+    url: https://doi.org/10.1109/BIOSMART.2017.8095328
+    display: (2017) 2nd IEEE International Conference on Bio-engineering for Smart Technologies (BioSMART), pp. 1-5
   highlight: 0
 
 - title: "Collaborative Robotic System for Hand-Assisted Laparoscopic Surgery"
@@ -714,8 +714,8 @@
   description: ""
   authors: López-Casado, C., Bauzano, E., Rivas-Blanco, I., Muñoz, V. F., & Fraile, J. C. 
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-319-70836-2_45
-    display: (2017) Iberian Robotics conference (pp. 548-553). Springer, Cham
+    url: https://doi.org/10.1007/978-3-319-70836-2_45
+    display: (2017) Iberian Robotics conference, pp. 548-553
   highlight: 0
 
 - title: "First Results on the Joint Use of E2Rebot and Gradior to Improve Cognitive Abilities"
@@ -724,8 +724,8 @@
   description: ""
   authors: Pérez-Turiel, J., Franco-Martin, M., Fraile, J. C., Parra, E., & Viñas, P.
   link:
-    url: https://link.springer.com/chapter/10.1007%2F978-3-319-46669-9_211
-    display: (2017) Converging Clinical and Engineering Research on Neurorehabilitation II (pp. 1293-1298). Springer, Cham.
+    url: https://doi.org/10.1007/978-3-319-46669-9_211
+    display: (2017) Converging Clinical and Engineering Research on Neurorehabilitation II, pp. 1293-1298
   highlight: 0
 
 - title: "Psychophysiological Measurements in a Robotic Platform for Upper Limbs Rehabilitation: First Trials"
@@ -735,7 +735,7 @@
   authors: Viñas, P. F., Hernández, M., Pérez-Turiel, J., Fraile, J. C., Cuadrado, A., Alonso, R., & Franco-Martín, M.
   link:
     url: https://www.researchgate.net/publication/309092069_Psychophysiological_Measurements_in_a_Robotic_Platform_for_Upper_Limbs_Rehabilitation_First_Trials
-    display: (2017) Converging Clinical and Engineering Research on Neurorehabilitation II (pp. 1205-1209). Springer, Cham.
+    display: (2017) Converging Clinical and Engineering Research on Neurorehabilitation II, pp. 1205-1209
   highlight: 0
 
 - title: "Sistema de Visión Estereoscópico para el guiado de un robot quirúrgico en operaciones de cirugía laparoscópica HALS"
@@ -755,7 +755,7 @@
   authors: Santos, L., González, J. L., Fraile, J. C., & Pérez Turiel, J. 
   link:
     url: https://digibuo.uniovi.es/dspace/handle/10651/46512
-    display: (2017) Actas de las XXXVIII Jornadas de Automática
+    display: (2017) Actas de las XXXVIII Jornadas de Automática, pp. 334-339
   highlight: 0
 
 - title: "Diseño mecánico de un asistente robótico camarógrafo con aprendizaje cognitivo"
@@ -765,7 +765,7 @@
   authors: Blanco, I. R., Casado, C. L., del Pulgar Mancebo, C. J. P., Vacas, F. G., Martínez, V. F. M., Núñez, E. B., & Fraile, J. C.
   link:
     url: https://ruc.udc.es/dspace/handle/2183/25934
-    display: (2017) Actas de las XXXVIII Jornadas de Automática (pp. 844-851).
+    display: (2017) Actas de las XXXVIII Jornadas de Automática, pp. 844-851.
   highlight: 0
 
 - title: "Control of the E2REBOT Platform for Upper Limb Rehabilitation in Patients with Neuromotor Impairment"
@@ -774,8 +774,8 @@
   description: ""
   authors: Fraile, J. C., Pérez-Turiel, J., Viñas, P., Alonso, R., Cuadrado, A., Ayuso, L., ... & Franco-Martín, M. 
   link:
-    url: https://link.springer.com/chapter/10.1007%2F978-3-319-27149-1_24
-    display: "(2015) Robot 2015: Second Iberian Robotics Conference (pp. 303-314). Springer, Cham."
+    url: https://doi.org/10.1007/978-3-319-27149-1_24
+    display: "(2015) Robot 2015: Second Iberian Robotics Conference, pp. 303-314"
   highlight: 0
 
 - title: "Transnational lifelong education course in robotic systems"
@@ -784,8 +784,8 @@
   description: ""
   authors: Leitao, P., Fraile, J. C., Moreno, V., Harrison, R., Altun, H., Colombo, A. W., ... & Curto, B. 
   link:
-    url: https://ieeexplore.ieee.org/document/7392752
-    display: (2015) IECON-41st Annual Conference of the IEEE Industrial Electronics Society (pp. 004181-004186).
+    url: https://doi.org/10.1109/IECON.2015.7392752
+    display: (2015) IECON-41st Annual Conference of the IEEE Industrial Electronics Society, pp. 004181-004186
   highlight: 0
 
 - title: "E2REBOT plataforma robotizada para rehabilitación de miembros superiores en personas con discapacidad neuromotora y/o cognitiva"
@@ -815,7 +815,7 @@
   authors: Santos, L., González, J. L., Turiel, J. P., Fraile, J. C., & de la Fuente, E.
   link:
     url: https://www.ehu.eus/documents/3444171/4484745/48.pdf
-    display: (2015) Actas de las XXXVI Jornadas de Automática, 2-4.
+    display: (2015) Actas de las XXXVI Jornadas de Automática, pp. 2-4.
   highlight: 0
 
 - title: "Preliminary results from the use of the SOFTROBOT platform in stroke patients"
@@ -824,8 +824,8 @@
   description: ""
   authors: Rodriguez-Guerrero, C., Ana, B. M., Navarrete, P. O., Fraile, J. C., & Farina, P. R. 
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-642-34546-3_34
-    display: (2013) Converging Clinical and Engineering Research on Neurorehabilitation (pp. 215-226). Springer, Berlin, Heidelberg.
+    url: https://doi.org/10.1007/978-3-642-34546-3_34
+    display: (2013) Converging Clinical and Engineering Research on Neurorehabilitation, pp. 215-226
   highlight: 0
 
 - title: "Evolución de la plataforma robotizada de neuro-rehabilitación physiobot"
@@ -834,8 +834,8 @@
   description: ""
   authors: Fraile Marinero, J. C., Pérez Turiel, J., Rodríguez Guerrero, C., & Oliva, P.
   link:
-    url: http://aitadis.org/wp/wp-content/uploads/2015/01/Libro-de-Actas-IBERDISCAP-2013_Parte3.pdf
-    display: (2013) VII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad (Iberdiscap 2013), Santo Domingo (República Dominicana) (pp. 287-292)
+    url: 
+    display: (2013) VII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, pp. 287-292
   highlight: 0
 
 - title: "Using psychophysiological feedback to enhance physical human robot interaction in a cooperative scenario"
@@ -844,8 +844,8 @@
   description: ""
   authors: Guerrero, C. R., Marinero, J. F., Turiel, J. P., & Farina, P. R.
   link:
-    url: https://ieeexplore.ieee.org/document/6290845
-    display: (2012) 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob) (pp. 1176-1181)
+    url: https://doi.org/10.1109/BioRob.2012.6290845
+    display: (2012) 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics, pp. 1176-1181
   highlight: 0
 
 - title: "Bio cooperative robotic platform for motor function recovery of the upper limb after stroke"
@@ -854,7 +854,7 @@
   description: ""
   authors: Guerrero, C. R., Marinero, J. F., Turiel, J. P., & Farina, P. R.
   link:
-    url: https://ieeexplore.ieee.org/document/5626052
-    display: (2010) Annual International Conference of the IEEE Engineering in Medicine and Biology (pp. 4472-4475)
+    url: https://doi.org/10.1109/IEMBS.2010.5626052
+    display: (2010) Annual International Conference of the IEEE Engineering in Medicine and Biology, pp. 4472-4475
   highlight: 0
 
