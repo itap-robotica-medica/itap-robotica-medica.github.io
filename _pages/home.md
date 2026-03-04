@@ -37,13 +37,13 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3display_2026.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhandvideo.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/endonasal.jpg" alt="Slide 4" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhandvideo.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhand_render.jpg" alt="Slide 6" />
