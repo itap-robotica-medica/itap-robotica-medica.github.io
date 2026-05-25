@@ -1,3 +1,13 @@
+- title: "Autonomous RCM-less endoscope control: integrating force-based pivoting with deep learning visual servoing"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Fontúrbel, C., Cisnal, A., Benavides-Cobos, D., Fraile, J.C.,  Turiel, J.P.
+  link:
+    url: https://doi.org/10.1038/s41598-026-54550-9
+    display: "(2026) Scientific Reports"
+  highlight: 0
+
 - title: "Robust learning framework for a scalable remote monitoring of autonomic dysreflexia: use-case in spinal cord injury"
   type: journal
   image: dummy.jpg
@@ -5,7 +15,7 @@
   authors: Fuchs, B., Ejtehadi, M., Cisnal, A., Pannek, J., Scheel-Sailer, A., Riener, R., Eriks-Hoogland, I., Paez-Granados, D.
   link:
     url: https://doi.org/10.1038/s41598-025-33797-8
-    display: "(2026) Scientific Reports"
+    display: "(2026) Scientific Reports, vol. 9618, n. 16"
   highlight: 0
 
 - title: "Improved early prediction of acute pancreatitis severity using SHAP-based XGBoost model: Beyond traditional scoring systems"
@@ -464,7 +474,7 @@
   authors: Cisnal, A., Moreno, V., Alonso, R., Lobo, V., Fraile, J.C., Turiel, J.P.
   link:
     url: https://thegardenofcuriosity.untref.edu.ar/img/18_c3d/PDF_C3D_Publicacio%CC%81n-IBERDISCAP_01.pdf
-    display: (2019) Iberdiscap. X Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, pp. 158-159
+    display: (2019) X Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad (IBERDISCAP), pp. 158-159
   highlight: 0
   
 - title: "Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes"
@@ -795,7 +805,7 @@
   authors: Fraile, J. C., Pérez-Turiel, J., Viñas, P., Alonso, R., Cuadrado, A., Franco-Martin, M., ... & Nieto, F. 
   link:
     url: https://www.researchgate.net/publication/311563229_E2REBOT_plataforma_robotizada_para_rehabilitacion_de_miembros_superiores_en_personas_con_discapacidad_neuromotora_yo_cognitiva
-    display: (2015) IBERDISCAP, VIII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad
+    display: (2015) VIII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad (IBERDISCAP)
   highlight: 0  
  
 - title: "Procesamiento paralelo de imágenes de video para la detección de sangrado y vendas en operaciones de cirugía laparoscópica"
@@ -835,7 +845,7 @@
   authors: Fraile Marinero, J. C., Pérez Turiel, J., Rodríguez Guerrero, C., & Oliva, P.
   link:
     url: 
-    display: (2013) VII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, pp. 287-292
+    display: (2013) VII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad (IBERDISCAP), pp. 287-292
   highlight: 0
 
 - title: "Using psychophysiological feedback to enhance physical human robot interaction in a cooperative scenario"
