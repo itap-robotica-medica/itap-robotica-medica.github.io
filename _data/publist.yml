@@ -1,3 +1,13 @@
+- title: "A Wrist Robotic Platform for Neuromotor Rehabilitation Using Virtual Reality"
+  type: journal
+  image: dummy.jpg
+  description:
+  authors: Cisnal, A., Turiel, J.P., de la Fuente, E., Fraile, J.C.
+  link:
+    url: https://doi.org/10.1007/978-3-032-18746-8_57
+    display: "(2026) XIII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad (IBERDISCAP)"
+  highlight: 0
+
 - title: "Autonomous RCM-less endoscope control: integrating force-based pivoting with deep learning visual servoing"
   type: journal
   image: dummy.jpg
