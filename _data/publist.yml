@@ -1,3 +1,12 @@
+- title: "Reconocimiento de emociones faciales en vídeo mediante deep–learning para interacción humano-robot"
+  type: congress
+  image: dummy.png
+  description: ""
+  authors: Falcone, A., Cisnal, A., Turiel, J. P., Fraile, J. C.
+  link:
+    url: https://doi.org/10.64117/simposioscea.v2i2.144
+    display: (2026) Simposio CEA de Robótica, Bioingeniería, Visión Artificial y Automática Marina, vol. 2, n. 2
+
 - title: "A Wrist Robotic Platform for Neuromotor Rehabilitation Using Virtual Reality"
   type: congress
   image: dummy.jpg
