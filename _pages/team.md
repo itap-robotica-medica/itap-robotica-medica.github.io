@@ -157,6 +157,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   Past members        →
 
   </div></a>
+
+  <a href="/team/in-memoriam">
+  <div>
+
+  In Memoriam        →
+
+  </div></a>
 </center>
 
 <br>
