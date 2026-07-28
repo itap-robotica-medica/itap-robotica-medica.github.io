@@ -163,8 +163,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <div>
 
   In Memoriam        →
-  -->
-  </div></a>
+
+  </div></a> -->
 </center>
 
 <br>
