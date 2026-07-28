@@ -20,10 +20,10 @@ permalink: /team/in-memoriam/
 {% if even_odd == 0 %}
 <div class="col-sm-8">
   <div class="row">
-  <div class="col-sm-9">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="75%" style="float: left" /></p> 
-  </div>
   <div class="col-sm-3">
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="70%" style="float: left" /></p> 
+  </div>
+  <div class="col-sm-9">
   <h4>{{ member.name }}</h4>
   <p><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p> 
   <p><i>{{ member.datebirth }} - {{ member.datepassing }}</i></p> 
@@ -38,14 +38,14 @@ permalink: /team/in-memoriam/
 </div>
 <div class="col-sm-8">
   <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-9">
   <h4 class="text-right">{{ member.name }}</h4>
   <p class="text-right"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p>
   <p class="text-right"><i>{{ member.datebirth }} - {{ member.datepassing }}</i></p> 
   <p class="text-right">{{ member.paragraph }}</p> 
   </div> 
-  <div class="col-sm-9">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="75%" style="float: right" />
+  <div class="col-sm-3">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="70%" style="float: right" />
   </div>
   </div>
 </div>
