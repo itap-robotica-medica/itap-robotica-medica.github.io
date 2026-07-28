@@ -19,9 +19,9 @@ permalink: /team/in-memoriam/
 
 {% if even_odd == 0 %}
 <div class="col-sm-8">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" /></p> 
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i> 
+  <p><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p> 
 </div>
 {% endif %}
 
@@ -30,8 +30,8 @@ permalink: /team/in-memoriam/
 </div>
 <div class="col-sm-8">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: right" />
+  <p><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p> 
+  <p> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: right" /></p</p> > 
 </div>
 {% endif %}
 
