@@ -29,9 +29,11 @@ permalink: /team/in-memoriam/
 <div class="col-sm-4">
 </div>
 <div class="col-sm-8">
+  <div class="w-50">
   <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p> 
-  <p> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: right" /></p</p> > 
+  <p><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p>
+  </div> 
+  <p> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: right" /></p> 
 </div>
 {% endif %}
 
