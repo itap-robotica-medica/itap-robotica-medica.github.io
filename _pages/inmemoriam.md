@@ -3,7 +3,7 @@ title: "ITAP Medical Robotics - Team"
 layout: gridlay
 excerpt: "ITAP Medical Robotics - Team"
 sitemap: false
-permalink: /in-memoriam/
+permalink: /team/in-memoriam/
 ---
 
 
@@ -18,18 +18,20 @@ permalink: /in-memoriam/
 <div class="row">
 
 {% if even_odd == 0 %}
-<div class="">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-8">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i> 
 </div>
 {% endif %}
 
 {% if even_odd == 1 %}
-<div class="">
+<div class="col-sm-4">
+</div>
+<div class="col-sm-8">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: right" />
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: right" />
 </div>
 {% endif %}
 
