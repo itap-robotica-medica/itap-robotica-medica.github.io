@@ -21,7 +21,7 @@ permalink: /team/in-memoriam/
 <div class="col-sm-10">
   <div class="row">
   <div class="col-sm-3">
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="85%" style="float: left" /></p> 
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="85%" style="float: left; margin-bottom: 20px" /></p> 
   </div>
   <div class="col-sm-9">
   <h4>{{ member.name }}</h4>
@@ -45,7 +45,7 @@ permalink: /team/in-memoriam/
   <p class="text-right">{{ member.paragraph }}</p> 
   </div> 
   <div class="col-sm-3">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="85%" style="float: right" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="85%" style="float: right; margin:16px 6px 22px 20px; box-shadow: -2px 2px 5px #888" />
   </div>
   </div>
 </div>
@@ -63,7 +63,7 @@ permalink: /team/in-memoriam/
   <a href="/team">
   <div>
 
-  Current members        →
+  ←        Current members
 
   </div></a>
 </center>
