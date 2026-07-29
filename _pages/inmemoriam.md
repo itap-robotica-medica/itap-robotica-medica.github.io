@@ -15,7 +15,7 @@ permalink: /team/in-memoriam/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-<div class="row d-none d-sm-block">
+<div class="row hidden-sm">
 
 {% if even_odd == 0 %}
 <div class="col-sm-10">
@@ -62,7 +62,7 @@ permalink: /team/in-memoriam/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-<div class="row d-sm-none">
+<div class="row visible-sm">
 
 {% if even_odd == 0 %}
 <div class="col-sm-10">
