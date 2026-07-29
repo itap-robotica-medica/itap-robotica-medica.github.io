@@ -51,6 +51,12 @@ permalink: /team/in-memoriam/
 </div>
 {% endif %}
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+</div>
+
+{% endfor %}
+
 {% assign number_printed = 0 %}
 {% for member in site.data.in_memoriam %}
 
