@@ -34,12 +34,10 @@ permalink: /team/in-memoriam/
 </div>
 <div class="col-sm-2">
 </div>
-</div>
 {% endif %}
 
 {% if even_odd == 1 %}
 <div class="col-sm-2">
-</div>
 </div>
 <div class="col-sm-10">
 <div class="row">
@@ -51,7 +49,6 @@ permalink: /team/in-memoriam/
 </div> 
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="85%" style="float: right; margin:16px 6px 22px 20px; box-shadow: -2px 2px 5px #888" />
-</div>
 </div>
 </div>
 </div>
