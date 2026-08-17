@@ -9,23 +9,23 @@
   education4: <a href="https://www.webofscience.com/wos/author/record/585532">Link to ResearcherID</a>
   education5: <a href="https://www.researchgate.net/profile/Juan-Carlos-Fraile">Link to ResearchGate</a>
 
-- name: Javier Pérez-Turiel
-  photo: jpt.png
-  info: Associate professor, PhD Control Engineering
-  email: gmail.com
-  number_educ: 3
-  education1: <a href="https://orcid.org/0000-0002-7731-2411">Link to ORCID</a>
-  education2: <a href="https://scholar.google.com/citations?user=a3bilikAAAAJ&hl=en">Link to Google Scholar</a>
-  education3: <a href="https://www.researchgate.net/profile/Javier-Perez-Turiel">Link to ResearchGate</a>
+#- name: Javier Pérez-Turiel
+#  photo: jpt.png
+#  info: Associate professor, PhD Control Engineering
+#  email: gmail.com
+#  number_educ: 3
+#  education1: <a href="https://orcid.org/0000-0002-7731-2411">Link to ORCID</a>
+#  education2: <a href="https://scholar.google.com/citations?user=a3bilikAAAAJ&hl=en">Link to Google Scholar</a>
+#  education3: <a href="https://www.researchgate.net/profile/Javier-Perez-Turiel">Link to ResearchGate</a>
 
-- name: Eusebio de la Fuente
-  photo: efl.jpg
-  info: Associate professor, PhD Control Engineering
-  email: gmail.com
-  number_educ: 2
-  education1: <a href="https://orcid.org/0000-0001-5837-3510">Link to ORCID</a>
-  education2: <a href="https://scholar.google.com/citations?user=DXn1IyEAAAAJ&hl=en">Link to Google Scholar</a>
-  education3: <a href="https://www.researchgate.net/profile/Eusebio-Fuente-Lopez">Link to ResearchGate</a>
+#- name: Eusebio de la Fuente
+#  photo: efl.jpg
+#  info: Associate professor, PhD Control Engineering
+#  email: gmail.com
+#  number_educ: 2
+#  education1: <a href="https://orcid.org/0000-0001-5837-3510">Link to ORCID</a>
+#  education2: <a href="https://scholar.google.com/citations?user=DXn1IyEAAAAJ&hl=en">Link to Google Scholar</a>
+#  education3: <a href="https://www.researchgate.net/profile/Eusebio-Fuente-Lopez">Link to ResearchGate</a>
 
 - name: José-Luis González-Sánchez
   photo: jlgs.jpg
