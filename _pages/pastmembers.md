@@ -34,3 +34,14 @@ permalink: /team/past/
 {% if even_odd != 0 %}
 </div>
 {% endif %}
+
+<center>
+  <a href="/team">
+  <div>
+
+  ←        Current members
+
+  </div></a>
+</center>
+
+<br>
