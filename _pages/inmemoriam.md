@@ -59,14 +59,10 @@ permalink: /team/in-memoriam/
 
 {% endfor %}
 
-{% assign number_printed = 0 %}
 {% for member in site.data.in_memoriam %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
 
 <div class="row visible-xs-block">
 
-{% if even_odd == 0 %}
 <div class="col-sm-10">
 <div class="row">
 <div class="col-sm-3">
@@ -82,29 +78,6 @@ permalink: /team/in-memoriam/
 </div>
 <div class="col-sm-2">
 </div>
-{% endif %}
-
-{% if even_odd == 1 %}
-<div class="col-sm-2">
-</div>
-<div class="col-sm-10">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="85%" style="float: center; margin-bottom: 20px" />
-</div>
-<div>
-<h4>{{ member.name }}</h4>
-<p><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></i></p>
-<p><i>{{ member.datebirth }} - {{ member.datepassing }}</i></p> 
-<div class="text-justify">{{ member.paragraph }}</div> 
-</div> 
-</div>
-</div>
-{% endif %}
-
-
-
-{% assign number_printed = number_printed | plus: 1 %}
 
 </div>
 
