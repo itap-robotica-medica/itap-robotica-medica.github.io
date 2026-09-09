@@ -1,3 +1,12 @@
+- title: "Robot-assisted brain-computer interface therapy for post-stroke rehabilitation: Preliminary effects on motor, cognitive, and functional outcomes"
+  type: journal
+  image: dummy.png
+  description: ""
+  authors: Martínez-Cagigal, V., Moreno-Calderón, S., Cisnal, A., Pérez-Velasco, S., Martín-Fernández, A., Santamaría-Vázquez, E, Fraile, J.C., Turiel, J. P., Hornero, R.
+  link:
+    url: https://doi.org/10.1016/j.bbe.2026.08.002
+    display: (2026) Biocybernetics and Biomedical Engineering, vol. 46, n. 4, pp. 637-649
+
 - title: "Integración de videojuegos comerciales mediante emulación de gamepad utilizando un robot de rehabilitación de muñeca"
   type: congress
   image: dummy.png
