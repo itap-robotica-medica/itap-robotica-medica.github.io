@@ -19,8 +19,8 @@ Project coordinated with the <a href="http://www.roboticamedica.uma.es/">Robotic
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/arcos.png" class="img-responsive" width="100%" />
 
-    The ARCOS project aims to develop and validate an intelligent robotic assistant for fracture reduction and fixation in minimally invasive orthopaedic surgery. The system will integrate patient-specific preoperative planning, anatomical and biomechanical digital twins, and intraoperative human–robot collaboration within a cognitive architecture based on federated learning. These technologies aim to improve surgical precision and safety, reduce radiation exposure, and minimize variability in surgical outcomes.
-    
+The ARCOS project aims to develop and validate an intelligent robotic assistant for fracture reduction and fixation in minimally invasive orthopaedic surgery. The system will integrate patient-specific preoperative planning, anatomical and biomechanical digital twins, and intraoperative human–robot collaboration within a cognitive architecture based on federated learning. These technologies aim to improve surgical precision and safety, reduce radiation exposure, and minimize variability in surgical outcomes.
+
 ---
 <div>
 <div class="col-md-8">
