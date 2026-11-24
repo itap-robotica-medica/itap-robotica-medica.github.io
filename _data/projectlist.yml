@@ -3,6 +3,16 @@
 #   description: <Descripcion>
 #   url: <page name>
 
+- title: "Federated learning for an environment-aware human-robot collaborative assistant in minimally invasive orthopedic surgery"
+  image: "arcos.png"
+  description: 
+    "
+    The ARCOS project aims to develop and validate an intelligent robotic assistant for fracture reduction and fixation in minimally invasive orthopaedic surgery. The system will integrate patient-specific preoperative planning, anatomical and biomechanical digital twins, and intraoperative human–robot collaboration within a cognitive architecture based on federated learning. These technologies aim to improve surgical precision and safety, reduce radiation exposure, and minimize variability in surgical outcomes.
+    "
+  url: "arcos"
+  category: "Surgery"
+
+
 - title: "Shared-control strategies in Laparoscopic Liver surgery"
   image: "liversurgery.png"
   description: 
